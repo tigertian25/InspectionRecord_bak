@@ -1,0 +1,784 @@
+Performance Statistics   2017-12-06 14:08:00 - 2017-12-06 14:09:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+Messages.searchClasspath                                 0.6           0          46         3.9         154
+Messages.searchFiles                                     0.1           0          13         1.1         154
+Metadata.replaceExtendedMetaClasses                      2.0           2           2         0.0           1
+QueryParser.getEntityName()                             31.5           0         178        65.6           6
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           6
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           6
+QueryParser.getParamNames()                              0.0           0           0         0.0           6
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           4
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           4
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           4
+QueryTransformer.addWhereAsIs(..)                        0.3           0           1         0.4           4
+QueryTransformer.getResult()                             0.5           0           2         0.9           4
+QueryTransformer.replaceWithSelectEntityVariable(..)         1.0           0           4         1.7           4
+
+Performance Statistics   2017-12-06 14:09:00 - 2017-12-06 14:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+Metadata.replaceExtendedMetaClasses                      1.0           1           1         0.0           1
+PersistenceSecurity.applyConstraints(..)                 3.0           3           3         0.0           1
+QueryParser.getEntityName()                              0.4           0           1         0.5           5
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getParamNames()                              0.2           0           1         0.4           5
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           2
+QueryTransformer.getResult()                             0.0           0           0         0.0           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         1.0           0           2         1.0           2
+Security.isEntityOpPermitted(..)                         0.0           0           0         0.0           1
+ViewRepository.init.ViewRepositoryImpl                  14.0          14          14         0.0           1
+
+Performance Statistics   2017-12-06 14:10:00 - 2017-12-06 14:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:11:00 - 2017-12-06 14:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:12:00 - 2017-12-06 14:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:13:00 - 2017-12-06 14:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:14:00 - 2017-12-06 14:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:15:00 - 2017-12-06 14:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:16:00 - 2017-12-06 14:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:17:00 - 2017-12-06 14:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:18:00 - 2017-12-06 14:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:19:00 - 2017-12-06 14:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:20:00 - 2017-12-06 14:21:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:21:00 - 2017-12-06 14:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:22:00 - 2017-12-06 14:23:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:23:00 - 2017-12-06 14:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:24:00 - 2017-12-06 14:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:25:00 - 2017-12-06 14:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:26:00 - 2017-12-06 14:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:27:00 - 2017-12-06 14:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:28:00 - 2017-12-06 14:29:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:29:00 - 2017-12-06 14:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:30:00 - 2017-12-06 14:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:31:00 - 2017-12-06 14:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:32:00 - 2017-12-06 14:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:33:00 - 2017-12-06 14:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:34:00 - 2017-12-06 14:35:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:35:00 - 2017-12-06 14:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:36:00 - 2017-12-06 14:37:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:37:00 - 2017-12-06 14:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:38:00 - 2017-12-06 14:39:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:39:00 - 2017-12-06 14:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:40:00 - 2017-12-06 14:41:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:41:00 - 2017-12-06 14:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:42:00 - 2017-12-06 14:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:43:00 - 2017-12-06 14:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:44:00 - 2017-12-06 14:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:45:00 - 2017-12-06 14:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:46:00 - 2017-12-06 14:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:47:00 - 2017-12-06 14:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:48:00 - 2017-12-06 14:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:49:00 - 2017-12-06 14:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:50:00 - 2017-12-06 14:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              1.0           0           3         1.2           4
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getParamNames()                              0.0           0           0         0.0           4
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           2
+QueryTransformer.getResult()                             0.0           0           0         0.0           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           2
+
+Performance Statistics   2017-12-06 14:51:00 - 2017-12-06 14:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.1           0           1         0.3          28
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0          28
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0          28
+QueryParser.getParamNames()                              0.0           0           0         0.0          28
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0          14
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0          14
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0          14
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0          14
+QueryTransformer.getResult()                             0.0           0           0         0.0          14
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0          14
+
+Performance Statistics   2017-12-06 14:52:00 - 2017-12-06 14:53:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:53:00 - 2017-12-06 14:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:54:00 - 2017-12-06 14:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:55:00 - 2017-12-06 14:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:56:00 - 2017-12-06 14:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:57:00 - 2017-12-06 14:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:58:00 - 2017-12-06 14:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 14:59:00 - 2017-12-06 15:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:00:00 - 2017-12-06 15:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           8
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           8
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           8
+QueryParser.getParamNames()                              0.0           0           0         0.0           8
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           4
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           4
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           4
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           4
+QueryTransformer.getResult()                             0.0           0           0         0.0           4
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           4
+
+Performance Statistics   2017-12-06 15:01:00 - 2017-12-06 15:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:02:00 - 2017-12-06 15:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:03:00 - 2017-12-06 15:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:04:00 - 2017-12-06 15:05:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:05:00 - 2017-12-06 15:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:06:00 - 2017-12-06 15:07:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:07:00 - 2017-12-06 15:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:08:00 - 2017-12-06 15:09:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:09:00 - 2017-12-06 15:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           8
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           8
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           8
+QueryParser.getParamNames()                              0.0           0           0         0.0           8
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           4
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           4
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           4
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           4
+QueryTransformer.getResult()                             0.0           0           0         0.0           4
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           4
+
+Performance Statistics   2017-12-06 15:10:00 - 2017-12-06 15:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+AppFolders                                               6.0           6           6         0.0           1
+LoadClass                                                0.7           0           2         0.7           6
+MenuItem.inspectionrecord$HtEmpl.browse               1301.0        1301        1301         0.0           1
+Messages.searchClasspath                                 0.0           0           2         0.1        1332
+Messages.searchFiles                                     0.0           0           0         0.0        1332
+Metadata.replaceExtendedMetaClasses                      2.0           2           2         0.0           1
+PersistenceSecurity.applyConstraints(..)                 1.0           1           1         0.0           3
+QueryParser.getEntityAlias()                             0.3           0           1         0.5           3
+QueryParser.getEntityName()                              0.0           0           0         0.0          18
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0          15
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0          15
+QueryParser.getParamNames()                              0.0           0           0         0.0          18
+QueryParser.hasIsNullCondition(..)                       5.0           0          10         5.0           2
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           2
+QueryTransformer.getResult()                             0.0           0           0         0.0           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           2
+SearchFolders                                           13.0          13          13         0.0           1
+Security.isEntityOpPermitted(..)                         0.0           0           0         0.0           3
+ViewRepository.init.ViewRepositoryClientImpl            13.0          13          13         0.0           1
+
+Performance Statistics   2017-12-06 15:11:00 - 2017-12-06 15:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0          30
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0          30
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0          30
+QueryParser.getParamNames()                              0.0           0           0         0.0          30
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0          12
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0          12
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0          12
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0          12
+QueryTransformer.getResult()                             0.0           0           0         0.0          12
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0          12
+
+Performance Statistics   2017-12-06 15:12:00 - 2017-12-06 15:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:13:00 - 2017-12-06 15:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:14:00 - 2017-12-06 15:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                              823.0         823         823         0.0           1
+
+Performance Statistics   2017-12-06 15:15:00 - 2017-12-06 15:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:16:00 - 2017-12-06 15:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:17:00 - 2017-12-06 15:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:18:00 - 2017-12-06 15:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:19:00 - 2017-12-06 15:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:23:00 - 2017-12-06 15:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+Messages.searchClasspath                                 0.3           0           7         1.1         130
+Messages.searchFiles                                     0.1           0          10         0.9         130
+Metadata.replaceExtendedMetaClasses                      1.0           1           1         0.0           1
+QueryParser.getEntityName()                             54.7           1         157        72.4           3
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           3
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           3
+QueryParser.getParamNames()                              0.0           0           0         0.0           3
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.5           0           1         0.5           2
+QueryTransformer.getResult()                             0.5           0           1         0.5           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.5           0           1         0.5           2
+
+Performance Statistics   2017-12-06 15:24:00 - 2017-12-06 15:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+Messages.searchClasspath                                 0.3           0           4         0.9          24
+Messages.searchFiles                                     0.1           0           1         0.3          24
+
+Performance Statistics   2017-12-06 15:25:00 - 2017-12-06 15:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:26:00 - 2017-12-06 15:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:27:00 - 2017-12-06 15:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.4           0           2         0.8           5
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           5
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           5
+QueryParser.getParamNames()                              0.0           0           0         0.0           5
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           2
+QueryTransformer.getResult()                             0.0           0           0         0.0           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           2
+
+Performance Statistics   2017-12-06 15:28:00 - 2017-12-06 15:29:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:29:00 - 2017-12-06 15:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:30:00 - 2017-12-06 15:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:31:00 - 2017-12-06 15:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:32:00 - 2017-12-06 15:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:33:00 - 2017-12-06 15:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:34:00 - 2017-12-06 15:35:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:35:00 - 2017-12-06 15:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:36:00 - 2017-12-06 15:37:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:37:00 - 2017-12-06 15:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:38:00 - 2017-12-06 15:39:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:39:00 - 2017-12-06 15:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              3.0           0          12         5.2           4
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getParamNames()                              0.0           0           0         0.0           4
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           2
+QueryTransformer.getResult()                             0.0           0           0         0.0           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           2
+
+Performance Statistics   2017-12-06 15:40:00 - 2017-12-06 15:41:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           1
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           1
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           1
+QueryParser.getParamNames()                              0.0           0           0         0.0           1
+
+Performance Statistics   2017-12-06 15:41:00 - 2017-12-06 15:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           4
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getParamNames()                              0.0           0           0         0.0           4
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           2
+QueryTransformer.getResult()                             0.0           0           0         0.0           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           2
+
+Performance Statistics   2017-12-06 15:42:00 - 2017-12-06 15:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              1.0           1           1         0.0           1
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           1
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           1
+QueryParser.getParamNames()                              0.0           0           0         0.0           1
+
+Performance Statistics   2017-12-06 15:43:00 - 2017-12-06 15:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:44:00 - 2017-12-06 15:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:45:00 - 2017-12-06 15:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:46:00 - 2017-12-06 15:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:47:00 - 2017-12-06 15:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:48:00 - 2017-12-06 15:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:49:00 - 2017-12-06 15:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:50:00 - 2017-12-06 15:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:51:00 - 2017-12-06 15:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:52:00 - 2017-12-06 15:53:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:53:00 - 2017-12-06 15:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:54:00 - 2017-12-06 15:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:55:00 - 2017-12-06 15:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:56:00 - 2017-12-06 15:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:57:00 - 2017-12-06 15:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:58:00 - 2017-12-06 15:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 15:59:00 - 2017-12-06 16:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:00:00 - 2017-12-06 16:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:01:00 - 2017-12-06 16:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:02:00 - 2017-12-06 16:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:03:00 - 2017-12-06 16:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:04:00 - 2017-12-06 16:05:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:05:00 - 2017-12-06 16:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:06:00 - 2017-12-06 16:07:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:07:00 - 2017-12-06 16:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:08:00 - 2017-12-06 16:09:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:09:00 - 2017-12-06 16:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:10:00 - 2017-12-06 16:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:11:00 - 2017-12-06 16:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:12:00 - 2017-12-06 16:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:13:00 - 2017-12-06 16:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:14:00 - 2017-12-06 16:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:15:00 - 2017-12-06 16:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:16:00 - 2017-12-06 16:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:17:00 - 2017-12-06 16:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:18:00 - 2017-12-06 16:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:19:00 - 2017-12-06 16:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:20:00 - 2017-12-06 16:21:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:21:00 - 2017-12-06 16:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:22:00 - 2017-12-06 16:23:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:23:00 - 2017-12-06 16:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:24:00 - 2017-12-06 16:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:25:00 - 2017-12-06 16:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.6           0           4         1.3           9
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.3           0           3         0.9           9
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           9
+QueryParser.getParamNames()                              0.0           0           0         0.0           9
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           4
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           4
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           4
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           4
+QueryTransformer.getResult()                             0.0           0           0         0.0           4
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.3           0           1         0.4           4
+
+Performance Statistics   2017-12-06 16:26:00 - 2017-12-06 16:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           1
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           1
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           1
+QueryParser.getParamNames()                              0.0           0           0         0.0           1
+
+Performance Statistics   2017-12-06 16:27:00 - 2017-12-06 16:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           4
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getParamNames()                              0.0           0           0         0.0           4
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           2
+QueryTransformer.getResult()                             0.0           0           0         0.0           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           2
+
+Performance Statistics   2017-12-06 16:28:00 - 2017-12-06 16:29:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           1
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           1
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           1
+QueryParser.getParamNames()                              0.0           0           0         0.0           1
+
+Performance Statistics   2017-12-06 16:29:00 - 2017-12-06 16:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:30:00 - 2017-12-06 16:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:31:00 - 2017-12-06 16:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:32:00 - 2017-12-06 16:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:33:00 - 2017-12-06 16:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.2           0           1         0.4           5
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           5
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           5
+QueryParser.getParamNames()                              0.0           0           0         0.0           5
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           2
+QueryTransformer.getResult()                             0.0           0           0         0.0           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           2
+
+Performance Statistics   2017-12-06 16:34:00 - 2017-12-06 16:35:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           5
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           5
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           5
+QueryParser.getParamNames()                              0.0           0           0         0.0           5
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           2
+QueryTransformer.getResult()                             0.0           0           0         0.0           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           2
+
+Performance Statistics   2017-12-06 16:35:00 - 2017-12-06 16:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           1         0.2          35
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0          35
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0          35
+QueryParser.getParamNames()                              0.0           0           0         0.0          35
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0          14
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0          14
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0          14
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0          14
+QueryTransformer.getResult()                             0.0           0           0         0.0          14
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0          14
+
+Performance Statistics   2017-12-06 16:36:00 - 2017-12-06 16:37:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:37:00 - 2017-12-06 16:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           4
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getParamNames()                              0.0           0           0         0.0           4
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           2
+QueryTransformer.getResult()                             0.0           0           0         0.0           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           2
+
+Performance Statistics   2017-12-06 16:38:00 - 2017-12-06 16:39:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:39:00 - 2017-12-06 16:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           4
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getParamNames()                              0.0           0           0         0.0           4
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           2
+QueryTransformer.getResult()                             0.0           0           0         0.0           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           2
+
+Performance Statistics   2017-12-06 16:40:00 - 2017-12-06 16:41:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           1
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           1
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           1
+QueryParser.getParamNames()                              0.0           0           0         0.0           1
+
+Performance Statistics   2017-12-06 16:41:00 - 2017-12-06 16:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:42:00 - 2017-12-06 16:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:43:00 - 2017-12-06 16:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:44:00 - 2017-12-06 16:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:45:00 - 2017-12-06 16:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:46:00 - 2017-12-06 16:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:47:00 - 2017-12-06 16:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:48:00 - 2017-12-06 16:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:49:00 - 2017-12-06 16:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:50:00 - 2017-12-06 16:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:51:00 - 2017-12-06 16:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:52:00 - 2017-12-06 16:53:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:53:00 - 2017-12-06 16:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:54:00 - 2017-12-06 16:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           4
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           4
+QueryParser.getParamNames()                              0.0           0           0         0.0           4
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           2
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           2
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           2
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           2
+QueryTransformer.getResult()                             0.0           0           0         0.0           2
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           2
+
+Performance Statistics   2017-12-06 16:55:00 - 2017-12-06 16:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           1
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           1
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           1
+QueryParser.getParamNames()                              0.0           0           0         0.0           1
+
+Performance Statistics   2017-12-06 16:56:00 - 2017-12-06 16:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:57:00 - 2017-12-06 16:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:58:00 - 2017-12-06 16:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 16:59:00 - 2017-12-06 17:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 17:00:00 - 2017-12-06 17:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 17:01:00 - 2017-12-06 17:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+QueryParser.getEntityName()                              0.0           0           0         0.0           6
+QueryParser.getEntityNameIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           6
+QueryParser.getEntityPathIfSecondaryReturnedInsteadOfMain()         0.0           0           0         0.0           6
+QueryParser.getParamNames()                              0.0           0           0         0.0           6
+QueryParser.isCollectionSecondaryEntitySelect()          0.0           0           0         0.0           4
+QueryTransformer.addEntityInGroupBy(..)                  0.0           0           0         0.0           4
+QueryTransformer.addFirstSelectionSource(..)             0.0           0           0         0.0           4
+QueryTransformer.addWhereAsIs(..)                        0.0           0           0         0.0           4
+QueryTransformer.getResult()                             0.0           0           0         0.0           4
+QueryTransformer.replaceWithSelectEntityVariable(..)         0.0           0           0         0.0           4
+
+Performance Statistics   2017-12-06 17:02:00 - 2017-12-06 17:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 17:03:00 - 2017-12-06 17:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 17:04:00 - 2017-12-06 17:05:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-06 17:05:00 - 2017-12-06 17:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+

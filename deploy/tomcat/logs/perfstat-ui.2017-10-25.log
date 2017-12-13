@@ -1,0 +1,583 @@
+Performance Statistics   2017-10-25 21:02:00 - 2017-10-25 21:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#init                                        91.0          91          91         0.0           1
+loginWindow#inject                                      48.0          48          48         0.0           1
+loginWindow#load                                      1210.0        1210        1210         0.0           1
+loginWindow#ready                                        0.0           0           0         0.0           1
+loginWindow#uiPermissions                                0.0           0           0         0.0           1
+loginWindow#xml                                         60.0          60          60         0.0           1
+mainWindow#init                                         26.0          26          26         0.0           1
+mainWindow#inject                                        1.0           1           1         0.0           1
+mainWindow#load                                        462.0         462         462         0.0           1
+mainWindow#ready                                         0.0           0           0         0.0           1
+mainWindow#uiPermissions                                 0.0           0           0         0.0           1
+mainWindow#xml                                           4.0           4           4         0.0           1
+
+Performance Statistics   2017-10-25 21:04:00 - 2017-10-25 21:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$DefectType.browse#init                 20.0          20          20         0.0           1
+inspectionrecord$DefectType.browse#inject                3.0           3           3         0.0           1
+inspectionrecord$DefectType.browse#load               1580.0        1580        1580         0.0           1
+inspectionrecord$DefectType.browse#ready                 0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#xml                  10.0          10          10         0.0           1
+inspectionrecord$DefectType.browse@defectTypesDs       633.0         633         633         0.0           1
+
+Performance Statistics   2017-10-25 21:06:00 - 2017-10-25 21:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+mainWindow#init                                          0.0           0           0         0.0           1
+mainWindow#inject                                        0.0           0           0         0.0           1
+mainWindow#load                                         36.0          36          36         0.0           1
+mainWindow#ready                                         0.0           0           0         0.0           1
+mainWindow#uiPermissions                                 0.0           0           0         0.0           1
+mainWindow#xml                                           0.0           0           0         0.0           1
+
+Performance Statistics   2017-10-25 21:08:00 - 2017-10-25 21:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#init                                        20.0          20          20         0.0           1
+loginWindow#inject                                      20.0          20          20         0.0           1
+loginWindow#load                                       546.0         546         546         0.0           1
+loginWindow#ready                                        0.0           0           0         0.0           1
+loginWindow#uiPermissions                                0.0           0           0         0.0           1
+loginWindow#xml                                         27.0          27          27         0.0           1
+mainWindow#init                                         17.0          17          17         0.0           1
+mainWindow#inject                                        1.0           1           1         0.0           1
+mainWindow#load                                        357.0         357         357         0.0           1
+mainWindow#ready                                         0.0           0           0         0.0           1
+mainWindow#uiPermissions                                 0.0           0           0         0.0           1
+mainWindow#xml                                           3.0           3           3         0.0           1
+
+Performance Statistics   2017-10-25 21:10:00 - 2017-10-25 21:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$HtDept.browse#load                    867.0         867         867         0.0           1
+inspectionrecord$HtDept.browse#xml                       9.0           9           9         0.0           1
+
+Performance Statistics   2017-10-25 21:12:00 - 2017-10-25 21:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$Employee.browse#init                    6.5           0          13         6.5           2
+inspectionrecord$Employee.browse#inject                  0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#load                  129.5          12         247       117.5           2
+inspectionrecord$Employee.browse#ready                   0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#uiPermissions           0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#xml                     4.5           0           9         4.5           2
+inspectionrecord$Employee.browse@employeesDs            14.0           8          20         6.0           2
+inspectionrecord$HtDept.browse#init                      0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#inject                    1.5           0           3         1.5           2
+inspectionrecord$HtDept.browse#load                     22.0          22          22         0.0           1
+inspectionrecord$HtDept.browse#ready                     0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#uiPermissions             0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#xml                       0.0           0           0         0.0           1
+inspectionrecord$HtDept.browse@htDeptsDs              1272.5         232        2313      1040.5           2
+inspectionrecord$HtEmpl.browse#init                      0.0           0           0         0.0           3
+inspectionrecord$HtEmpl.browse#inject                    0.0           0           0         0.0           3
+inspectionrecord$HtEmpl.browse#load                     49.7          28          89        27.9           3
+inspectionrecord$HtEmpl.browse#ready                     0.0           0           0         0.0           3
+inspectionrecord$HtEmpl.browse#uiPermissions             0.0           0           0         0.0           3
+inspectionrecord$HtEmpl.browse#xml                       0.3           0           1         0.5           3
+inspectionrecord$HtEmpl.browse@htEmplsDs               345.0         240         559       125.4           4
+inspectionrecord$InspectionRecord.browse#init            6.0           6           6         0.0           1
+inspectionrecord$InspectionRecord.browse#inject          0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#load          204.0         204         204         0.0           1
+inspectionrecord$InspectionRecord.browse#ready           0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#xml             7.0           7           7         0.0           1
+inspectionrecord$InspectionRecord.browse@inspectionRecordsDs        11.0          11          11         0.0           1
+
+Performance Statistics   2017-10-25 21:14:00 - 2017-10-25 21:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$DefectType.browse#init                  7.0           7           7         0.0           1
+inspectionrecord$DefectType.browse#inject                0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#load                 34.0          34          34         0.0           1
+inspectionrecord$DefectType.browse#ready                 0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#xml                   4.0           4           4         0.0           1
+inspectionrecord$DefectType.browse@defectTypesDs        11.0          11          11         0.0           1
+inspectionrecord$Department.browse#init                  8.0           8           8         0.0           1
+inspectionrecord$Department.browse#inject                0.0           0           0         0.0           1
+inspectionrecord$Department.browse#load                 36.0          36          36         0.0           1
+inspectionrecord$Department.browse#ready                 0.0           0           0         0.0           1
+inspectionrecord$Department.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$Department.browse#xml                   5.0           5           5         0.0           1
+inspectionrecord$Department.browse@departmentsDs        11.0          11          11         0.0           1
+inspectionrecord$HtDept.browse#init                      0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#inject                    0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#load                     15.0          15          15         0.0           2
+inspectionrecord$HtDept.browse#ready                     0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#uiPermissions             0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#xml                       0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse@htDeptsDs               188.5         185         192         3.5           2
+
+Performance Statistics   2017-10-25 21:16:00 - 2017-10-25 21:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$HtDept.browse#init                      0.0           0           0         0.0           3
+inspectionrecord$HtDept.browse#inject                    0.0           0           0         0.0           3
+inspectionrecord$HtDept.browse#load                     18.7          16          21         2.1           3
+inspectionrecord$HtDept.browse#ready                     0.0           0           0         0.0           3
+inspectionrecord$HtDept.browse#uiPermissions             0.0           0           0         0.0           3
+inspectionrecord$HtDept.browse#xml                       0.0           0           0         0.0           3
+inspectionrecord$HtDept.browse@htDeptsDs               204.7         188         233        20.1           3
+
+Performance Statistics   2017-10-25 21:18:00 - 2017-10-25 21:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$DefectType.browse#init                  0.0           0           0         0.0           3
+inspectionrecord$DefectType.browse#inject                0.0           0           0         0.0           3
+inspectionrecord$DefectType.browse#load                 20.0          18          23         2.2           3
+inspectionrecord$DefectType.browse#ready                 0.0           0           0         0.0           3
+inspectionrecord$DefectType.browse#uiPermissions         0.0           0           0         0.0           3
+inspectionrecord$DefectType.browse#xml                   0.0           0           0         0.0           3
+inspectionrecord$DefectType.browse@defectTypesDs        14.3          12          16         1.7           3
+inspectionrecord$Department.browse#init                  0.0           0           0         0.0           7
+inspectionrecord$Department.browse#inject                0.0           0           0         0.0           7
+inspectionrecord$Department.browse#load                 13.0           7          18         4.1           7
+inspectionrecord$Department.browse#ready                 0.0           0           0         0.0           7
+inspectionrecord$Department.browse#uiPermissions         0.0           0           0         0.0           7
+inspectionrecord$Department.browse#xml                   0.0           0           0         0.0           7
+inspectionrecord$Department.browse@departmentsDs       161.0         134         300        56.8           7
+
+Performance Statistics   2017-10-25 21:20:00 - 2017-10-25 21:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$DefectType.browse#init                  0.0           0           0         0.0           2
+inspectionrecord$DefectType.browse#inject                0.0           0           0         0.0           2
+inspectionrecord$DefectType.browse#load                 19.0          12          26         7.0           2
+inspectionrecord$DefectType.browse#ready                 0.0           0           0         0.0           2
+inspectionrecord$DefectType.browse#uiPermissions         0.0           0           0         0.0           2
+inspectionrecord$DefectType.browse#xml                   0.0           0           0         0.0           2
+inspectionrecord$DefectType.browse@defectTypesDs        14.5          12          17         2.5           4
+inspectionrecord$Department.browse#init                  0.0           0           0         0.0           7
+inspectionrecord$Department.browse#inject                0.0           0           0         0.0           7
+inspectionrecord$Department.browse#load                 11.6           8          23         5.0           7
+inspectionrecord$Department.browse#ready                 0.0           0           0         0.0           7
+inspectionrecord$Department.browse#uiPermissions         0.0           0           0         0.0           7
+inspectionrecord$Department.browse#xml                   0.0           0           0         0.0           7
+inspectionrecord$Department.browse@departmentsDs       138.4         129         157         8.4           7
+
+Performance Statistics   2017-10-25 21:22:00 - 2017-10-25 21:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$DefectType.browse#init                  0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#inject                0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#load                 32.0          32          32         0.0           1
+inspectionrecord$DefectType.browse#ready                 0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#xml                   0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse@defectTypesDs       150.0         150         150         0.0           1
+inspectionrecord$Department.browse#init                  0.0           0           0         0.0           2
+inspectionrecord$Department.browse#inject                0.0           0           0         0.0           2
+inspectionrecord$Department.browse#load                 11.5           9          14         2.5           2
+inspectionrecord$Department.browse#ready                 0.0           0           0         0.0           2
+inspectionrecord$Department.browse#uiPermissions         0.0           0           0         0.0           2
+inspectionrecord$Department.browse#xml                   0.0           0           0         0.0           2
+inspectionrecord$Department.browse@departmentsDs       136.5         132         141         4.5           2
+
+Performance Statistics   2017-10-25 21:24:00 - 2017-10-25 21:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$Department.browse#init                  0.0           0           0         0.0           2
+inspectionrecord$Department.browse#inject                0.0           0           0         0.0           2
+inspectionrecord$Department.browse#load                 13.0          12          14         1.0           2
+inspectionrecord$Department.browse#ready                 0.0           0           0         0.0           2
+inspectionrecord$Department.browse#uiPermissions         0.0           0           0         0.0           2
+inspectionrecord$Department.browse#xml                   0.0           0           0         0.0           2
+inspectionrecord$Department.browse@departmentsDs       133.0         130         136         3.0           2
+inspectionrecord$HtDept.browse#init                      0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#inject                    0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#load                     16.0          10          22         6.0           2
+inspectionrecord$HtDept.browse#ready                     0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#uiPermissions             0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#xml                       0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse@htDeptsDs               176.0         175         177         1.0           2
+
+Performance Statistics   2017-10-25 21:26:00 - 2017-10-25 21:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 21:28:00 - 2017-10-25 21:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$DefectType.browse#init                  0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#inject                0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#load                 27.0          27          27         0.0           1
+inspectionrecord$DefectType.browse#ready                 0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#xml                   0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse@defectTypesDs       149.0         149         149         0.0           1
+loginWindow#init                                         0.0           0           0         0.0           2
+loginWindow#inject                                       0.0           0           0         0.0           2
+loginWindow#load                                         9.5           5          14         4.5           2
+loginWindow#ready                                        0.0           0           0         0.0           2
+loginWindow#uiPermissions                                0.0           0           0         0.0           2
+loginWindow#xml                                          0.0           0           0         0.0           2
+mainWindow#init                                          0.0           0           0         0.0           1
+mainWindow#inject                                        0.0           0           0         0.0           1
+mainWindow#load                                         15.0          15          15         0.0           1
+mainWindow#ready                                         0.0           0           0         0.0           1
+mainWindow#uiPermissions                                 0.0           0           0         0.0           1
+mainWindow#xml                                           0.0           0           0         0.0           1
+
+Performance Statistics   2017-10-25 21:30:00 - 2017-10-25 21:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$Department.browse#init                  0.0           0           0         0.0           7
+inspectionrecord$Department.browse#inject                0.0           0           0         0.0           7
+inspectionrecord$Department.browse#load                 13.7           7          20         4.7           7
+inspectionrecord$Department.browse#ready                 0.0           0           0         0.0           7
+inspectionrecord$Department.browse#uiPermissions         0.0           0           0         0.0           7
+inspectionrecord$Department.browse#xml                   0.0           0           0         0.0           7
+inspectionrecord$Department.browse@departmentsDs       143.7         132         155         7.9           7
+inspectionrecord$HtDept.browse#init                      0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#inject                    0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#load                     13.5          10          17         3.5           2
+inspectionrecord$HtDept.browse#ready                     0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#uiPermissions             0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse#xml                       0.0           0           0         0.0           2
+inspectionrecord$HtDept.browse@htDeptsDs               188.0         184         192         4.0           2
+
+Performance Statistics   2017-10-25 21:32:00 - 2017-10-25 21:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$DefectType.browse#init                  0.0           0           0         0.0           3
+inspectionrecord$DefectType.browse#inject                0.0           0           0         0.0           3
+inspectionrecord$DefectType.browse#load                 18.0          14          23         3.7           3
+inspectionrecord$DefectType.browse#ready                 0.0           0           0         0.0           3
+inspectionrecord$DefectType.browse#uiPermissions         0.0           0           0         0.0           3
+inspectionrecord$DefectType.browse#xml                   0.0           0           0         0.0           3
+inspectionrecord$DefectType.browse@defectTypesDs       139.7         138         141         1.2           3
+inspectionrecord$Department.browse#init                  0.0           0           0         0.0           2
+inspectionrecord$Department.browse#inject                0.0           0           0         0.0           2
+inspectionrecord$Department.browse#load                  9.5           8          11         1.5           2
+inspectionrecord$Department.browse#ready                 0.0           0           0         0.0           2
+inspectionrecord$Department.browse#uiPermissions         0.0           0           0         0.0           2
+inspectionrecord$Department.browse#xml                   0.0           0           0         0.0           2
+inspectionrecord$Department.browse@departmentsDs       140.5         138         143         2.5           2
+inspectionrecord$Employee.browse#init                    0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#inject                  1.0           1           1         0.0           1
+inspectionrecord$Employee.browse#load                   17.0          17          17         0.0           1
+inspectionrecord$Employee.browse#ready                   0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#uiPermissions           0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#xml                     0.0           0           0         0.0           1
+inspectionrecord$Employee.browse@employeesDs           136.0         136         136         0.0           1
+
+Performance Statistics   2017-10-25 21:34:00 - 2017-10-25 21:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$DefectType.browse#init                  0.0           0           0         0.0           2
+inspectionrecord$DefectType.browse#inject                0.0           0           0         0.0           2
+inspectionrecord$DefectType.browse#load                 20.0          19          21         1.0           2
+inspectionrecord$DefectType.browse#ready                 0.0           0           0         0.0           2
+inspectionrecord$DefectType.browse#uiPermissions         0.0           0           0         0.0           2
+inspectionrecord$DefectType.browse#xml                   0.0           0           0         0.0           2
+inspectionrecord$DefectType.browse@defectTypesDs       145.0         142         148         3.0           2
+inspectionrecord$Employee.browse#init                    0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#inject                  0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#load                   20.5          18          23         2.5           2
+inspectionrecord$Employee.browse#ready                   0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#uiPermissions           0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#xml                     0.0           0           0         0.0           2
+inspectionrecord$Employee.browse@employeesDs           133.0         133         133         0.0           2
+inspectionrecord$InspectionRecord.browse#init            0.0           0           0         0.0           3
+inspectionrecord$InspectionRecord.browse#inject          0.0           0           0         0.0           3
+inspectionrecord$InspectionRecord.browse#load           24.3          14          31         7.4           3
+inspectionrecord$InspectionRecord.browse#ready           0.0           0           0         0.0           3
+inspectionrecord$InspectionRecord.browse#uiPermissions         0.0           0           0         0.0           3
+inspectionrecord$InspectionRecord.browse#xml             0.0           0           0         0.0           3
+inspectionrecord$InspectionRecord.browse@inspectionRecordsDs        64.3           9         167        72.7           3
+
+Performance Statistics   2017-10-25 21:36:00 - 2017-10-25 21:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$Department.browse#init                  0.0           0           0         0.0           1
+inspectionrecord$Department.browse#inject                0.0           0           0         0.0           1
+inspectionrecord$Department.browse#load                 12.0          12          12         0.0           1
+inspectionrecord$Department.browse#ready                 0.0           0           0         0.0           1
+inspectionrecord$Department.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$Department.browse#xml                   0.0           0           0         0.0           1
+inspectionrecord$Department.browse@departmentsDs       141.0         141         141         0.0           1
+
+Performance Statistics   2017-10-25 21:38:00 - 2017-10-25 21:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 21:40:00 - 2017-10-25 21:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 21:42:00 - 2017-10-25 21:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 21:44:00 - 2017-10-25 21:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$Department.browse#init                  0.0           0           0         0.0           2
+inspectionrecord$Department.browse#inject                0.0           0           0         0.0           2
+inspectionrecord$Department.browse#load                 11.5           8          15         3.5           2
+inspectionrecord$Department.browse#ready                 0.0           0           0         0.0           2
+inspectionrecord$Department.browse#uiPermissions         0.0           0           0         0.0           2
+inspectionrecord$Department.browse#xml                   0.0           0           0         0.0           2
+inspectionrecord$Department.browse@departmentsDs       135.0         131         139         4.0           2
+inspectionrecord$Employee.browse#init                    0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#inject                  0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#load                   11.0          10          12         1.0           2
+inspectionrecord$Employee.browse#ready                   0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#uiPermissions           0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#xml                     0.0           0           0         0.0           2
+inspectionrecord$Employee.browse@employeesDs           139.0         138         140         1.0           2
+inspectionrecord$InspectionRecord.browse#init            0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#inject          0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#load           27.0          27          27         0.0           1
+inspectionrecord$InspectionRecord.browse#ready           0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#xml             0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse@inspectionRecordsDs       136.0         136         136         0.0           1
+
+Performance Statistics   2017-10-25 21:46:00 - 2017-10-25 21:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 21:48:00 - 2017-10-25 21:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 21:50:00 - 2017-10-25 21:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 21:52:00 - 2017-10-25 21:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 21:54:00 - 2017-10-25 21:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$InspectionRecord.browse#init            0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#inject          1.0           1           1         0.0           1
+inspectionrecord$InspectionRecord.browse#load           47.0          47          47         0.0           1
+inspectionrecord$InspectionRecord.browse#ready           0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#xml             0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse@inspectionRecordsDs       154.0         154         154         0.0           1
+
+Performance Statistics   2017-10-25 21:56:00 - 2017-10-25 21:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 21:58:00 - 2017-10-25 22:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:00:00 - 2017-10-25 22:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+sec$UserSessionEntity.browse#init                        0.0           0           0         0.0           1
+sec$UserSessionEntity.browse#inject                      0.0           0           0         0.0           1
+sec$UserSessionEntity.browse#load                     1141.0        1141        1141         0.0           1
+sec$UserSessionEntity.browse#uiPermissions               0.0           0           0         0.0           1
+sec$UserSessionEntity.browse#xml                       264.0         264         264         0.0           1
+
+Performance Statistics   2017-10-25 22:02:00 - 2017-10-25 22:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+appProperties#init                                      33.0          33          33         0.0           1
+appProperties#inject                                     0.0           0           0         0.0           1
+appProperties#load                                     314.0         314         314         0.0           1
+appProperties#ready                                      0.0           0           0         0.0           1
+appProperties#uiPermissions                              0.0           0           0         0.0           1
+appProperties#xml                                        0.0           0           0         0.0           1
+appPropertyEditor#init                                   1.0           1           1         0.0           1
+appPropertyEditor#inject                                 0.0           0           0         0.0           1
+appPropertyEditor#load                                  38.0          38          38         0.0           1
+appPropertyEditor#ready                                  0.0           0           0         0.0           1
+appPropertyEditor#uiPermissions                          0.0           0           0         0.0           1
+appPropertyEditor#xml                                    0.0           0           0         0.0           1
+entityInspector.browse#companion                        10.0           1          19         9.0           2
+entityInspector.browse#init                            127.0          64         190        63.0           2
+entityInspector.browse#inject                            0.0           0           0         0.0           2
+entityInspector.browse#load                             63.5           4         123        59.5           2
+entityInspector.browse#ready                             0.0           0           0         0.0           2
+entityInspector.browse#uiPermissions                     0.0           0           0         0.0           2
+entityInspector.browse#xml                               0.0           0           0         0.0           2
+entityInspector.browse@entitiesDs                       66.1           7         178        74.8           9
+entityInspector.edit#init                               63.0          63          63         0.0           1
+entityInspector.edit#inject                              0.0           0           0         0.0           1
+entityInspector.edit#load                               67.0          67          67         0.0           1
+entityInspector.edit#ready                               0.0           0           0         0.0           1
+entityInspector.edit#uiPermissions                       0.0           0           0         0.0           1
+entityInspector.edit#xml                                 0.0           0           0         0.0           1
+sec$Group.browse#init                                  154.0         154         154         0.0           1
+sec$Group.browse#inject                                  3.0           3           3         0.0           1
+sec$Group.browse#load                                  425.0         425         425         0.0           1
+sec$Group.browse#ready                                   0.0           0           0         0.0           1
+sec$Group.browse#uiPermissions                           0.0           0           0         0.0           1
+sec$Group.browse#xml                                     0.0           0           0         0.0           1
+sec$Group.browse@attributesDs                           17.0          16          18         1.0           2
+sec$Group.browse@constraintsDs                          11.0           9          13         2.0           2
+sec$Group.browse@groupsDs                               10.0          10          10         0.0           1
+sec$Group.browse@usersDs                                29.0          29          29         0.0           1
+sec$User.browse#companion                               46.0          46          46         0.0           1
+sec$User.browse#init                                    47.0          47          47         0.0           1
+sec$User.browse#inject                                   0.0           0           0         0.0           1
+sec$User.browse#load                                   100.0         100         100         0.0           1
+sec$User.browse#ready                                    0.0           0           0         0.0           1
+sec$User.browse#uiPermissions                            0.0           0           0         0.0           1
+sec$User.browse#xml                                      4.0           4           4         0.0           1
+sec$User.browse@usersDs                                 19.0          19          19         0.0           1
+sec$User.edit#companion                                  5.0           5           5         0.0           1
+sec$User.edit#init                                      88.0          88          88         0.0           1
+sec$User.edit#inject                                     0.5           0           1         0.5           2
+sec$User.edit#load                                     168.0         168         168         0.0           1
+sec$User.edit#ready                                      0.0           0           0         0.0           1
+sec$User.edit#setItem                                   70.0          70          70         0.0           1
+sec$User.edit#uiPermissions                              0.0           0           0         0.0           1
+sec$User.edit#xml                                        0.0           0           0         0.0           1
+sec$User.edit.windowActions#load                        26.0          26          26         0.0           1
+sec$UserSessionEntity.browse#ready                       0.0           0           0         0.0           1
+windowActions#xml                                        0.0           0           0         0.0           1
+
+Performance Statistics   2017-10-25 22:04:00 - 2017-10-25 22:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:06:00 - 2017-10-25 22:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:08:00 - 2017-10-25 22:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:10:00 - 2017-10-25 22:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:12:00 - 2017-10-25 22:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:14:00 - 2017-10-25 22:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:16:00 - 2017-10-25 22:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:18:00 - 2017-10-25 22:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:20:00 - 2017-10-25 22:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:22:00 - 2017-10-25 22:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:24:00 - 2017-10-25 22:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:26:00 - 2017-10-25 22:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:28:00 - 2017-10-25 22:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:30:00 - 2017-10-25 22:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:32:00 - 2017-10-25 22:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:34:00 - 2017-10-25 22:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$HtEmpl.browse#init                      0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#inject                    0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#load                    129.0         129         129         0.0           1
+inspectionrecord$HtEmpl.browse#ready                     0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#uiPermissions             0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#xml                       0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse@htEmplsDs               333.0         333         333         0.0           1
+mainWindow#init                                          0.0           0           0         0.0           1
+mainWindow#inject                                        0.0           0           0         0.0           1
+mainWindow#load                                         33.0          33          33         0.0           1
+mainWindow#ready                                         0.0           0           0         0.0           1
+mainWindow#uiPermissions                                 0.0           0           0         0.0           1
+mainWindow#xml                                           0.0           0           0         0.0           1
+
+Performance Statistics   2017-10-25 22:36:00 - 2017-10-25 22:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:38:00 - 2017-10-25 22:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:40:00 - 2017-10-25 22:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:42:00 - 2017-10-25 22:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:48:00 - 2017-10-25 22:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:50:00 - 2017-10-25 22:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:52:00 - 2017-10-25 22:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:54:00 - 2017-10-25 22:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:56:00 - 2017-10-25 22:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 22:58:00 - 2017-10-25 23:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:00:00 - 2017-10-25 23:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:02:00 - 2017-10-25 23:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:04:00 - 2017-10-25 23:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:06:00 - 2017-10-25 23:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+loginWindow#init                                        25.0          25          25         0.0           1
+loginWindow#inject                                      20.0          20          20         0.0           1
+loginWindow#load                                      1664.0        1664        1664         0.0           1
+loginWindow#ready                                        0.0           0           0         0.0           1
+loginWindow#uiPermissions                                0.0           0           0         0.0           1
+loginWindow#xml                                         15.0          15          15         0.0           1
+
+Performance Statistics   2017-10-25 23:08:00 - 2017-10-25 23:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:10:00 - 2017-10-25 23:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:16:00 - 2017-10-25 23:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:18:00 - 2017-10-25 23:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:20:00 - 2017-10-25 23:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:22:00 - 2017-10-25 23:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:24:00 - 2017-10-25 23:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:26:00 - 2017-10-25 23:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:28:00 - 2017-10-25 23:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:30:00 - 2017-10-25 23:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:32:00 - 2017-10-25 23:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:34:00 - 2017-10-25 23:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:36:00 - 2017-10-25 23:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:38:00 - 2017-10-25 23:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:42:00 - 2017-10-25 23:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:48:00 - 2017-10-25 23:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:50:00 - 2017-10-25 23:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:52:00 - 2017-10-25 23:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:54:00 - 2017-10-25 23:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-10-25 23:56:00 - 2017-10-25 23:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+

@@ -1,0 +1,1315 @@
+2017-12-12 08:31:27.470 INFO  [scheduler-7] com.haulmont.cuba.core.sys.TriggerFilesProcessor - Calling cuba_ClassLoaderManager.reloadClass('com.artwell.inspectionrecord.service.InspectionRecordServiceBean')
+2017-12-12 08:31:38.051 INFO  [scheduler-9] com.haulmont.cuba.core.sys.TriggerFilesProcessor - Calling cuba_ClassLoaderManager.reloadClass('com.artwell.inspectionrecord.service.InspectionRecordServiceBean')
+2017-12-12 08:35:54.352 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Installed AtmosphereHandler com.vaadin.server.communication.PushAtmosphereHandler mapped to context-path: /*
+2017-12-12 08:35:54.356 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Installed the following AtmosphereInterceptor mapped to AtmosphereHandler com.vaadin.server.communication.PushAtmosphereHandler
+2017-12-12 08:35:54.360 INFO  [localhost-startStop-1] org.atmosphere.util.IOUtils - META-INF/services/org.atmosphere.cpr.AtmosphereFramework not found in class loader
+2017-12-12 08:35:54.380 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Atmosphere is using org.atmosphere.util.VoidAnnotationProcessor for processing annotation
+2017-12-12 08:35:54.393 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Installed WebSocketProtocol org.atmosphere.websocket.protocol.SimpleHttpProtocol 
+2017-12-12 08:35:54.403 INFO  [localhost-startStop-1] org.atmosphere.container.JSR356AsyncSupport - JSR 356 Mapping path /{path}
+2017-12-12 08:35:54.429 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Installing Default AtmosphereInterceptors
+2017-12-12 08:35:54.431 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - 	org.atmosphere.interceptor.CorsInterceptor : CORS Interceptor Support
+2017-12-12 08:35:54.432 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - 	org.atmosphere.interceptor.CacheHeadersInterceptor : Default Response's Headers Interceptor
+2017-12-12 08:35:54.433 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - 	org.atmosphere.interceptor.PaddingAtmosphereInterceptor : Browser Padding Interceptor Support
+2017-12-12 08:35:54.434 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - 	org.atmosphere.interceptor.AndroidAtmosphereInterceptor : Android Interceptor Support
+2017-12-12 08:35:54.434 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Dropping Interceptor org.atmosphere.interceptor.HeartbeatInterceptor
+2017-12-12 08:35:54.435 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - 	org.atmosphere.interceptor.SSEAtmosphereInterceptor : SSE Interceptor Support
+2017-12-12 08:35:54.437 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - 	org.atmosphere.interceptor.JSONPAtmosphereInterceptor : JSONP Interceptor Support
+2017-12-12 08:35:54.438 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - 	org.atmosphere.interceptor.JavaScriptProtocol : Atmosphere JavaScript Protocol
+2017-12-12 08:35:54.440 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - 	org.atmosphere.interceptor.WebSocketMessageSuspendInterceptor : org.atmosphere.interceptor.WebSocketMessageSuspendInterceptor
+2017-12-12 08:35:54.441 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - 	org.atmosphere.interceptor.OnDisconnectInterceptor : Browser disconnection detection
+2017-12-12 08:35:54.442 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - 	org.atmosphere.interceptor.IdleResourceInterceptor : org.atmosphere.interceptor.IdleResourceInterceptor
+2017-12-12 08:35:54.443 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Set org.atmosphere.cpr.AtmosphereInterceptor.disableDefaults to disable them.
+2017-12-12 08:35:54.446 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Using EndpointMapper class org.atmosphere.util.DefaultEndpointMapper
+2017-12-12 08:35:54.447 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Using BroadcasterCache: org.atmosphere.cache.UUIDBroadcasterCache
+2017-12-12 08:35:54.447 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Default Broadcaster Class: org.atmosphere.cpr.DefaultBroadcaster
+2017-12-12 08:35:54.447 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Broadcaster Polling Wait Time 100
+2017-12-12 08:35:54.448 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Shared ExecutorService supported: true
+2017-12-12 08:35:54.448 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Messaging Thread Pool Size: Unlimited
+2017-12-12 08:35:54.449 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Async I/O Thread Pool Size: 200
+2017-12-12 08:35:54.449 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Using BroadcasterFactory: org.atmosphere.cpr.DefaultBroadcasterFactory
+2017-12-12 08:35:54.449 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Using WebSocketProcessor: org.atmosphere.websocket.DefaultWebSocketProcessor
+2017-12-12 08:35:54.453 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Invoke AtmosphereInterceptor on WebSocket message true
+2017-12-12 08:35:54.453 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - HttpSession supported: true
+2017-12-12 08:35:54.453 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Atmosphere is using DefaultAtmosphereObjectFactory for dependency injection and object creation
+2017-12-12 08:35:54.453 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Atmosphere is using async support: org.atmosphere.container.JSR356AsyncSupport running under container: Apache Tomcat/8.5.14 using javax.servlet/3.0 and jsr356/WebSocket API
+2017-12-12 08:35:54.454 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Atmosphere Framework 2.2.9.vaadin2.cuba1 started.
+2017-12-12 08:35:54.456 INFO  [localhost-startStop-1] org.atmosphere.cpr.AtmosphereFramework - Installed AtmosphereInterceptor  Track Message Size Interceptor using | with priority BEFORE_DEFAULT 
+2017-12-12 08:35:54.670 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.AppComponents - Using app components: [com.haulmont.cuba]
+2017-12-12 08:35:54.691 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - Loading app properties from classpath:com/artwell/inspectionrecord/web-app.properties
+2017-12-12 08:35:55.146 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.CubaClassPathXmlApplicationContext - Refreshing com.haulmont.cuba.core.sys.CubaClassPathXmlApplicationContext@2a8a5c67: startup date [Tue Dec 12 08:35:55 CST 2017]; root of context hierarchy
+2017-12-12 08:35:57.967 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.remoting.discovery.StaticServerSelector - Server URLs: [http://localhost:8080/app-core/remoting]
+2017-12-12 08:35:57.979 INFO  [localhost-startStop-1] com.haulmont.cuba.web.sys.remoting.WebRemoteProxyBeanCreator - Configuring proxy beans for local service invocations: [cuba_LoginService, cuba_ServerInfoService, cuba_UserSettingService, cuba_UserManagementService, cuba_DataService, cuba_ConfigStorageService, cuba_PersistenceManagerService, cuba_LockService, cuba_UserSessionService, cuba_FoldersService, cuba_EmailService, cuba_FileStorageService, cuba_EntitySnapshotService, cuba_UniqueNumbersService, cuba_LocalizedMessageService, cuba_ResourceService, cuba_ScheduledTasksService, cuba_EntityLogService, cuba_TestingService, cuba_ObjectsCacheManagerService, cuba_DomainDescriptionService, cuba_RelatedEntitiesService, cuba_EntitySqlGenerationService, cuba_NumberIdService, cuba_QueryResultsService, cuba_DynamicAttributesCacheService, cuba_EntityRestoreService, cuba_LocalFileExchangeService, cuba_EntityImportExportService, cuba_ScreenProfilerService, cuba_ServerTokenStore, cuba_IdpService, cuba_ConstraintLocalizationService]
+2017-12-12 08:35:57.987 INFO  [localhost-startStop-1] com.haulmont.cuba.web.sys.remoting.WebRemoteProxyBeanCreator - Configuring proxy beans for local service invocations: [inspectionrecord_EmployeeService, inspectionrecord_InspectionRecordService]
+2017-12-12 08:36:00.002 INFO  [localhost-startStop-1] com.haulmont.chile.core.datatypes.Datatypes - Can't find /datatypes.xml, using default datatypes settings
+2017-12-12 08:36:02.212 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.CubaThreadPoolTaskScheduler - Initializing ExecutorService  'scheduler'
+2017-12-12 08:36:02.694 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.jmx.MBeanExporter - Registering beans for JMX exposure: [app.cuba:type=ConfigStorage, app.cuba:type=CachingFacade, app.cuba:type=FileUploading, app.cuba:type=JmxNodeIdentifier, app.cuba:type=JmxLogControl, app.cuba:type=ClassLoaderManager, app.cuba:type=StatisticsCounter]
+2017-12-12 08:36:02.815 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - AppContext initialized
+2017-12-12 08:36:02.871 INFO  [localhost-startStop-1] com.haulmont.cuba.web.sys.CubaDispatcherServlet - FrameworkServlet 'dispatcher': initialization started
+2017-12-12 08:36:02.877 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.CubaXmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Tue Dec 12 08:36:02 CST 2017]; parent: com.haulmont.cuba.core.sys.CubaClassPathXmlApplicationContext@2a8a5c67
+2017-12-12 08:36:04.503 DEBUG [localhost-startStop-1] org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider
+2017-12-12 08:36:06.056 INFO  [localhost-startStop-1] com.haulmont.cuba.web.sys.CubaDispatcherServlet - FrameworkServlet 'dispatcher': initialization completed in 3184 ms
+2017-12-12 08:36:06.058 INFO  [localhost-startStop-1] com.haulmont.restapi.sys.CubaRestApiServlet - FrameworkServlet 'rest_api': initialization started
+2017-12-12 08:36:06.059 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.CubaXmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'rest_api-servlet': startup date [Tue Dec 12 08:36:06 CST 2017]; parent: com.haulmont.cuba.core.sys.CubaClassPathXmlApplicationContext@2a8a5c67
+2017-12-12 08:36:07.678 INFO  [localhost-startStop-1] com.haulmont.restapi.sys.CubaRestApiServlet - FrameworkServlet 'rest_api': initialization completed in 1620 ms
+2017-12-12 08:36:07.945 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.AppComponents - Using app components: [com.haulmont.cuba]
+2017-12-12 08:36:07.956 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - Loading app properties from classpath:com/artwell/inspectionrecord/app.properties
+2017-12-12 08:36:07.987 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.AppContextLoader - DbmsType of the main database is set to hsql
+2017-12-12 08:36:08.109 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.persistence.PersistenceConfigProcessor - Creating file C:\Users\Admin\Desktop\program\studio-projects\InspectionRecord\deploy\tomcat\work\app-core\persistence.xml
+2017-12-12 08:36:08.197 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.persistence.PersistenceConfigProcessor - Creating file C:\Users\Admin\Desktop\program\studio-projects\InspectionRecord\deploy\tomcat\work\app-core\legacy-persistence.xml
+2017-12-12 08:36:08.259 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.CubaCoreApplicationContext - Refreshing com.haulmont.cuba.core.sys.CubaCoreApplicationContext@41f42747: startup date [Tue Dec 12 08:36:08 CST 2017]; root of context hierarchy
+2017-12-12 08:36:13.771 INFO  [localhost-startStop-1] com.haulmont.chile.core.datatypes.Datatypes - Can't find /datatypes.xml, using default datatypes settings
+2017-12-12 08:36:16.386 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.CubaThreadPoolTaskScheduler - Initializing ExecutorService  'scheduler'
+2017-12-12 08:36:16.578 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.jmx.MBeanExporter - Registering beans for JMX exposure: [app-core.cuba:type=PersistenceManager, app-core.cuba:type=ConfigStorage, app-core.cuba:type=UserSessions, app-core.cuba:type=UniqueNumbers, app-core.cuba:type=Emailer, app-core.cuba:type=EntityLog, app-core.cuba:type=FileStorage, app-core.cuba:type=LockManager, app-core.cuba:type=CachingFacade, app-core.cuba:type=ClusterManager, app-core.cuba:type=ScriptingManager, app-core.cuba:type=ServerInfo, app-core.cuba:type=Scheduling, app-core.cuba:type=ObjectsCacheManager, app-core.cuba:type=PasswordEncryptionSupport, app-core.cuba:type=JmxNodeIdentifier, app-core.cuba:type=JmxLogControl, app-core.cuba:type=ClassLoaderManager, app-core.cuba:type=StatisticsCounter, app-core.cuba:type=BruteForceProtection, app-core.cuba:type=QueryCacheSupport, app-core.cuba:type=IdpSessions]
+2017-12-12 08:36:17.330 DEBUG [localhost-startStop-1] com.haulmont.cuba.security.app.LoginWorkerBean - Initialize anonymous session
+2017-12-12 08:36:17.332 INFO  [localhost-startStop-1] com.haulmont.cuba.core.app.ConfigStorage - Loading DB-stored app properties cache
+2017-12-12 08:36:17.450 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.MetadataImpl - Initializing metadata
+2017-12-12 08:36:17.753 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.MetadataImpl - Metadata initialized in 302ms
+2017-12-12 08:36:18.716 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.DefaultPermissionValuesConfig - Initializing default permission values
+2017-12-12 08:36:18.818 INFO  [localhost-startStop-1] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: d01b3951-9d4b-b0b8-e54d-b51fd065f642 [anonymous]
+2017-12-12 08:36:18.819 DEBUG [localhost-startStop-1] com.haulmont.cuba.security.app.LoginWorkerBean - Anonymous session initialized with id d01b3951-9d4b-b0b8-e54d-b51fd065f642
+2017-12-12 08:36:18.819 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - AppContext initialized
+2017-12-12 08:36:18.821 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.remoting.RemotingServlet - FrameworkServlet 'remoting': initialization started
+2017-12-12 08:36:18.823 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.CubaXmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'remoting-servlet': startup date [Tue Dec 12 08:36:18 CST 2017]; parent: com.haulmont.cuba.core.sys.CubaCoreApplicationContext@41f42747
+2017-12-12 08:36:18.856 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.remoting.RemoteServicesBeanCreator - Configuring remote services
+2017-12-12 08:36:19.030 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.remoting.RemotingServlet - FrameworkServlet 'remoting': initialization completed in 209 ms
+2017-12-12 08:36:19.355 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.AppComponents - Using app components: [com.haulmont.cuba]
+2017-12-12 08:36:19.364 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - Loading app properties from classpath:com/artwell/inspectionrecord/portal-app.properties
+2017-12-12 08:36:19.384 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.CubaXmlWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Tue Dec 12 08:36:19 CST 2017]; root of context hierarchy
+2017-12-12 08:36:20.071 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.remoting.discovery.StaticServerSelector - Server URLs: [http://localhost:8080/app-core/remoting]
+2017-12-12 08:36:20.073 INFO  [localhost-startStop-1] com.haulmont.cuba.portal.sys.remoting.PortalRemoteProxyBeanCreator - Configuring proxy beans for local service invocations: [cuba_LoginService, cuba_ServerInfoService, cuba_UserSettingService, cuba_UserManagementService, cuba_DataService, cuba_ConfigStorageService, cuba_PersistenceManagerService, cuba_LockService, cuba_UserSessionService, cuba_FoldersService, cuba_EmailService, cuba_FileStorageService, cuba_EntitySnapshotService, cuba_UniqueNumbersService, cuba_LocalizedMessageService, cuba_ResourceService, cuba_ScheduledTasksService, cuba_TestingService, cuba_DomainDescriptionService, cuba_RelatedEntitiesService, cuba_NumberIdService, cuba_DynamicAttributesCacheService, cuba_LocalFileExchangeService, cuba_EntityImportExportService, cuba_ServerTokenStore, cuba_IdpService, cuba_ConstraintLocalizationService]
+2017-12-12 08:36:20.078 INFO  [localhost-startStop-1] com.haulmont.cuba.portal.sys.remoting.PortalRemoteProxyBeanCreator - Configuring proxy beans for local service invocations: [inspectionrecord_InspectionRecordService, inspectionrecord_EmployeeService]
+2017-12-12 08:36:20.408 INFO  [localhost-startStop-1] com.haulmont.chile.core.datatypes.Datatypes - Can't find /datatypes.xml, using default datatypes settings
+2017-12-12 08:36:20.979 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.jmx.MBeanExporter - Registering beans for JMX exposure: [app-portal.cuba:type=ConfigStorage, app-portal.cuba:type=JmxNodeIdentifier, app-portal.cuba:type=JmxLogControl]
+2017-12-12 08:36:20.993 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.AbstractWebAppContextLoader - AppContext initialized
+2017-12-12 08:36:21.006 INFO  [localhost-startStop-1] com.haulmont.cuba.portal.sys.PortalDispatcherServlet - FrameworkServlet 'portal': initialization started
+2017-12-12 08:36:21.007 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.CubaXmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'portal-servlet': startup date [Tue Dec 12 08:36:21 CST 2017]; parent: Root WebApplicationContext
+2017-12-12 08:36:21.464 INFO  [localhost-startStop-1] com.haulmont.cuba.portal.sys.PortalDispatcherServlet - FrameworkServlet 'portal': initialization completed in 457 ms
+2017-12-12 08:36:21.466 INFO  [localhost-startStop-1] com.haulmont.restapi.sys.CubaRestApiServlet - FrameworkServlet 'rest_api': initialization started
+2017-12-12 08:36:21.467 INFO  [localhost-startStop-1] com.haulmont.cuba.core.sys.CubaXmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'rest_api-servlet': startup date [Tue Dec 12 08:36:21 CST 2017]; parent: Root WebApplicationContext
+2017-12-12 08:36:22.095 INFO  [localhost-startStop-1] com.haulmont.restapi.sys.CubaRestApiServlet - FrameworkServlet 'rest_api': initialization completed in 629 ms
+2017-12-12 08:36:40.979 INFO  [http-nio-8080-exec-25] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 9ffea1e4-8a6f-6945-a0e9-3b4c69d655bb [admin]
+2017-12-12 08:36:41.091 INFO  [http-nio-8080-exec-25/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] c60bdac3-e7ca-4882-8ded-ca2f91f3f39e
+2017-12-12 08:36:42.198 DEBUG [http-nio-8080-exec-18/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [c60bdac3-e7ca-4882-8ded-ca2f91f3f39e] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 08:37:27.205 INFO  [http-nio-8080-exec-18/app/admin] com.haulmont.cuba.core.sys.MetadataImpl - Initializing metadata
+2017-12-12 08:37:27.487 INFO  [http-nio-8080-exec-18/app/admin] com.haulmont.cuba.core.sys.MetadataImpl - Metadata initialized in 282ms
+2017-12-12 08:37:40.840 INFO  [http-nio-8080-exec-22] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 4a88bc64-cd91-4d69-4ff8-4ee22a4e483d [admin]
+2017-12-12 08:37:40.854 INFO  [http-nio-8080-exec-22/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 76773d6c-14e9-42a6-9e6b-b35389532008
+2017-12-12 08:37:41.146 DEBUG [http-nio-8080-exec-3/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [76773d6c-14e9-42a6-9e6b-b35389532008] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 08:41:03.927 INFO  [scheduler-1] com.haulmont.cuba.core.sys.TriggerFilesProcessor - Calling cuba_ClassLoaderManager.reloadClass('com.artwell.inspectionrecord.service.EmployeeServiceBean')
+2017-12-12 08:41:04.645 INFO  [scheduler-1] com.haulmont.cuba.core.sys.CubaXmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'remoting-servlet': startup date [Tue Dec 12 08:41:04 CST 2017]; parent: com.haulmont.cuba.core.sys.CubaCoreApplicationContext@41f42747
+2017-12-12 08:41:04.667 INFO  [scheduler-1] com.haulmont.cuba.core.sys.remoting.RemoteServicesBeanCreator - Configuring remote services
+2017-12-12 08:42:01.569 INFO  [http-nio-8080-exec-4] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 51c3296f-ce0f-4951-b1d4-95f11eea28e3 [admin]
+2017-12-12 08:42:01.576 INFO  [http-nio-8080-exec-4/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 5513a8ec-a234-4c40-9ab3-042fdbfdc811
+2017-12-12 08:42:02.031 DEBUG [http-nio-8080-exec-7/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [5513a8ec-a234-4c40-9ab3-042fdbfdc811] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 08:47:00.072 INFO  [http-nio-8080-exec-23] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 15040154-1db3-7880-0ec0-4c7082154fe3 [admin]
+2017-12-12 08:47:00.080 INFO  [http-nio-8080-exec-23/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 6e761a8e-98c9-4d38-af79-d4e8cce4a886
+2017-12-12 08:47:00.475 DEBUG [http-nio-8080-exec-16/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [6e761a8e-98c9-4d38-af79-d4e8cce4a886] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 08:52:08.446 INFO  [http-nio-8080-exec-15] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: f45505aa-0cde-65e7-5c47-199d7c8d9cd8 [admin]
+2017-12-12 08:52:08.452 INFO  [http-nio-8080-exec-15/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 4d1999a1-52ae-413c-93ab-2582a312d58c
+2017-12-12 08:52:08.728 DEBUG [http-nio-8080-exec-31/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [4d1999a1-52ae-413c-93ab-2582a312d58c] POST http://localhost:8080/app/rest/v2/services/inspectionrecord_InspectionRecordService/recordInspection 127.0.0.1
+2017-12-12 08:52:08.772 DEBUG [http-nio-8080-exec-31/app-core/admin] com.haulmont.cuba.core.app.StoreFactory - No implementation is specified for _MAIN_ store, using RdbmsStore
+2017-12-12 08:52:08.866 DEBUG [http-nio-8080-exec-31/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.artwell.inspectionrecord.entity.InspectionRecord-0187850b-a779-d995-595d-84115be4a41e [new]], removeInstances=[]
+2017-12-12 08:52:08.868 DEBUG [http-nio-8080-exec-31/app-core/admin] com.haulmont.cuba.security.app.EntityLog - Loading entities
+2017-12-12 08:52:08.873 DEBUG [http-nio-8080-exec-31/app-core/admin] com.haulmont.cuba.security.app.EntityLog - Loaded: entitiesAuto=0, entitiesManual=0
+2017-12-12 08:52:30.055 DEBUG [http-nio-8080-exec-15] com.haulmont.cuba.gui.theme.ThemeConstantsRepository - Loading theme constants
+2017-12-12 08:52:30.126 DEBUG [http-nio-8080-exec-15] com.haulmont.cuba.web.App - Initializing application
+2017-12-12 08:52:30.142 DEBUG [http-nio-8080-exec-15/app/anonymous] com.haulmont.cuba.web.DefaultApp - connectionStateChanged connected: true, authenticated: false
+2017-12-12 08:52:30.142 DEBUG [http-nio-8080-exec-15/app/anonymous] com.haulmont.cuba.web.App - Closing all windows
+2017-12-12 08:52:30.955 DEBUG [http-nio-8080-exec-15/app/anonymous] com.haulmont.cuba.web.AbstractConnection - Logged in: user=anonymous, ip=0:0:0:0:0:0:0:1, clientInfo=Web (localhost:8080/app) Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+2017-12-12 08:52:32.513 INFO  [http-nio-8080-exec-8/app-core/anonymous] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: bddc2b54-a44a-40b0-e893-da545960788c [admin]
+2017-12-12 08:52:32.519 DEBUG [http-nio-8080-exec-8/app/admin] com.haulmont.cuba.web.DefaultApp - connectionStateChanged connected: true, authenticated: true
+2017-12-12 08:52:32.520 DEBUG [http-nio-8080-exec-8/app/admin] com.haulmont.cuba.web.App - Closing all windows
+2017-12-12 08:52:32.522 DEBUG [http-nio-8080-exec-8/app/admin] com.haulmont.cuba.web.DefaultApp - Session reinitialized: HttpSession=org.apache.catalina.session.StandardSessionFacade@3165c293, timeout=1800sec, UserSession=bddc2b54-a44a-40b0-e893-da545960788c [admin]
+2017-12-12 08:52:32.876 INFO  [http-nio-8080-exec-8/app/admin] com.haulmont.cuba.core.sys.AbstractViewRepository - Initializing views
+2017-12-12 08:52:32.912 DEBUG [http-nio-8080-exec-8/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$UserSubstitution, view=com.haulmont.cuba.security.entity.UserSubstitution/app, query=select us from sec$UserSubstitution us where us.user.id = :userId and (us.endDate is null or us.endDate >= :currentDate) and (us.startDate is null or us.startDate <= :currentDate) and (us.substitutedUser.active = true or us.substitutedUser.active is null) order by us.substitutedUser.name
+2017-12-12 08:52:33.071 DEBUG [http-nio-8080-exec-8/app-core/admin] com.haulmont.cuba.core.app.FoldersServiceBean - Loading AppFolders
+2017-12-12 08:52:33.112 DEBUG [http-nio-8080-exec-8/app-core/admin] com.haulmont.cuba.core.app.FoldersServiceBean - Loading SearchFolders
+2017-12-12 08:52:33.163 DEBUG [http-nio-8080-exec-8/app/admin] com.haulmont.cuba.web.AbstractConnection - Logged in: user=admin, ip=0:0:0:0:0:0:0:1, clientInfo=Web (localhost:8080/app) Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+2017-12-12 08:52:36.179 INFO  [http-nio-8080-exec-9/app-core/admin] com.haulmont.cuba.core.app.PersistenceManager - Loading statistics cache
+2017-12-12 08:52:36.257 INFO  [http-nio-8080-exec-9/app-core/admin] com.haulmont.cuba.core.sys.AbstractViewRepository - Initializing views
+2017-12-12 08:52:36.819 DEBUG [http-nio-8080-exec-9/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2017-12-12 08:52:37.530 DEBUG [http-nio-8080-exec-9/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=inspectionrecord$InspectionRecord, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view, query=select e from inspectionrecord$InspectionRecord e, max=50
+2017-12-12 08:52:37.596 DEBUG [http-nio-8080-exec-9/app-core/admin] com.haulmont.cuba.core.app.StoreFactory - No implementation is specified for legacy store, using RdbmsStore
+2017-12-12 08:52:37.597 DEBUG [http-nio-8080-exec-9/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 08:52:39.905 DEBUG [http-nio-8080-exec-10/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=174de7a9-cfee-66b9-3c75-0a273940e8ca, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 08:52:39.965 DEBUG [http-nio-8080-exec-10/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 08:52:42.557 DEBUG [http-nio-8080-exec-27/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=1fb34f4b-43c2-e2fd-84b3-c454472211f8, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 08:52:42.591 DEBUG [http-nio-8080-exec-27/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 08:52:42.974 INFO  [ClientCacheManager-pool-2-thread-1] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 1a0db01e-5175-a8bb-aa6b-0171c177d53f [admin]
+2017-12-12 08:52:43.557 DEBUG [http-nio-8080-exec-15/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=47b8055e-a23a-472e-93ad-af2ce70c3235, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 08:52:43.576 DEBUG [http-nio-8080-exec-15/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 08:52:44.328 DEBUG [http-nio-8080-exec-7/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=0187850b-a779-d995-595d-84115be4a41e, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 08:52:44.351 DEBUG [http-nio-8080-exec-7/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 08:52:47.828 DEBUG [http-nio-8080-exec-30/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=174de7a9-cfee-66b9-3c75-0a273940e8ca, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 08:52:47.848 DEBUG [http-nio-8080-exec-30/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 08:52:48.660 DEBUG [http-nio-8080-exec-12/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=0187850b-a779-d995-595d-84115be4a41e, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 08:52:48.686 DEBUG [http-nio-8080-exec-12/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 08:54:19.995 INFO  [scheduler-5] com.haulmont.cuba.core.sys.TriggerFilesProcessor - Calling cuba_ClassLoaderManager.reloadClass('com.artwell.inspectionrecord.service.InspectionRecordServiceBean')
+2017-12-12 08:54:20.724 INFO  [scheduler-5] com.haulmont.cuba.core.sys.CubaXmlWebApplicationContext - Refreshing WebApplicationContext for namespace 'remoting-servlet': startup date [Tue Dec 12 08:54:20 CST 2017]; parent: com.haulmont.cuba.core.sys.CubaCoreApplicationContext@41f42747
+2017-12-12 08:54:20.746 INFO  [scheduler-5] com.haulmont.cuba.core.sys.remoting.RemoteServicesBeanCreator - Configuring remote services
+2017-12-12 08:56:52.518 INFO  [http-nio-8080-exec-6] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 1fcb3408-2fd0-c47b-938a-9c86af2c6d9a [admin]
+2017-12-12 08:56:52.524 INFO  [http-nio-8080-exec-6/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 2b6dfc3b-dc74-4512-a775-dfea49d61799
+2017-12-12 08:56:52.918 DEBUG [http-nio-8080-exec-30/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [2b6dfc3b-dc74-4512-a775-dfea49d61799] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 08:58:53.495 INFO  [http-nio-8080-exec-6] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: e2f89871-2cad-92b2-a4de-a29cbe251690 [admin]
+2017-12-12 08:58:53.500 INFO  [http-nio-8080-exec-6/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] e0e4f458-2662-4fa1-961c-0ad8c8972e44
+2017-12-12 08:58:53.896 DEBUG [http-nio-8080-exec-12/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [e0e4f458-2662-4fa1-961c-0ad8c8972e44] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 09:02:31.276 DEBUG [http-nio-8080-exec-20] com.haulmont.cuba.web.App - Ping session
+2017-12-12 09:03:58.773 INFO  [http-nio-8080-exec-6] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: e3570808-5001-e5b8-ad96-fa54b9ec91a0 [admin]
+2017-12-12 09:03:58.779 INFO  [http-nio-8080-exec-6/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 935b05ae-3b03-4304-883e-b68790f73326
+2017-12-12 09:03:59.199 DEBUG [http-nio-8080-exec-14/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [935b05ae-3b03-4304-883e-b68790f73326] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 09:07:36.832 DEBUG [scheduler-2] com.haulmont.cuba.security.app.UserSessions - Removing session due to timeout: 9ffea1e4-8a6f-6945-a0e9-3b4c69d655bb [admin], since: Tue Dec 12 08:36:40 CST 2017, lastUsed: Tue Dec 12 08:36:40 CST 2017
+2017-12-12 09:07:46.831 DEBUG [scheduler-5] com.haulmont.cuba.security.app.UserSessions - Removing session due to timeout: 4a88bc64-cd91-4d69-4ff8-4ee22a4e483d [admin], since: Tue Dec 12 08:37:40 CST 2017, lastUsed: Tue Dec 12 08:37:40 CST 2017
+2017-12-12 09:10:06.805 INFO  [http-nio-8080-exec-12] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 8c79199b-d951-4d26-f6be-3ae929eb0f70 [admin]
+2017-12-12 09:10:06.809 INFO  [http-nio-8080-exec-12/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 4badb699-0e45-4039-8b78-216b7053317e
+2017-12-12 09:10:07.228 DEBUG [http-nio-8080-exec-20/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [4badb699-0e45-4039-8b78-216b7053317e] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 09:10:12.033 DEBUG [http-nio-8080-exec-22/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [4badb699-0e45-4039-8b78-216b7053317e] POST http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_InspectionRecordService/recordInspection 10.52.0.137
+2017-12-12 09:10:12.045 ERROR [http-nio-8080-exec-22/app/admin] com.haulmont.restapi.controllers.RestControllerExceptionHandler - Exception in REST controller
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 218 path $
+	at com.google.gson.JsonParser.parse(JsonParser.java:65)
+	at com.google.gson.JsonParser.parse(JsonParser.java:45)
+	at com.haulmont.restapi.common.RestParseUtils.parseParamsJson(RestParseUtils.java:139)
+	at com.haulmont.restapi.service.ServicesControllerManager.invokeServiceMethodPost(ServicesControllerManager.java:87)
+	at com.haulmont.restapi.controllers.ServicesController.invokeServiceMethodPost(ServicesController.java:44)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at com.haulmont.restapi.auth.CubaRestLastSecurityFilter.doFilter(CubaRestLastSecurityFilter.java:59)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at com.haulmont.restapi.auth.CubaAnonymousAuthenticationFilter.doFilter(CubaAnonymousAuthenticationFilter.java:66)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter.doFilter(OAuth2AuthenticationProcessingFilter.java:176)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:64)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:177)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.handleNotFiltered(CubaHttpFilter.java:108)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:95)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 218 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542)
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+	at com.google.gson.JsonParser.parse(JsonParser.java:60)
+	... 78 common frames omitted
+2017-12-12 09:10:22.839 DEBUG [http-nio-8080-exec-15/app/admin] com.haulmont.cuba.web.AppUI - Ping middleware session
+2017-12-12 09:10:26.356 DEBUG [http-nio-8080-exec-6/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=174de7a9-cfee-66b9-3c75-0a273940e8ca, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:10:26.374 DEBUG [http-nio-8080-exec-6/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:10:27.209 DEBUG [http-nio-8080-exec-19/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=0187850b-a779-d995-595d-84115be4a41e, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:10:27.231 DEBUG [http-nio-8080-exec-19/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:12:06.831 DEBUG [scheduler-10] com.haulmont.cuba.security.app.UserSessions - Removing session due to timeout: 51c3296f-ce0f-4951-b1d4-95f11eea28e3 [admin], since: Tue Dec 12 08:42:01 CST 2017, lastUsed: Tue Dec 12 08:42:01 CST 2017
+2017-12-12 09:13:59.007 INFO  [http-nio-8080-exec-17] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 014c0d03-340c-f22e-f17a-d0a3a70b6d08 [admin]
+2017-12-12 09:13:59.011 INFO  [http-nio-8080-exec-17/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] d6a775f9-e45d-43ec-b42f-29afe8c0cabb
+2017-12-12 09:14:01.263 DEBUG [http-nio-8080-exec-2/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [d6a775f9-e45d-43ec-b42f-29afe8c0cabb] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 09:15:52.819 ERROR [http-nio-8080-exec-2/app-core/admin] com.haulmont.cuba.core.sys.ServiceInterceptor - Exception: 
+javax.persistence.PersistenceException: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.6.2.cuba16): org.eclipse.persistence.exceptions.DatabaseException
+Internal Exception: com.microsoft.sqlserver.jdbc.SQLServerException: Read timed out
+Error Code: 0
+Call: SELECT sID, "rDept_ID", "rFlow_ID", "rIntro_ID", "rJob_ID", "sAuditor", "sChecker", "sCreateDate", "sLastUpdate", "sMender", "sOwner", "sStatus", "sVerNo", "xAJoinDate", "xAPaytype", "xBDimisDate", "xBDimisMode", "xBTag", "xBedNo", "xBirth", "xBirth2", "xCard", "xCheckDate", "xCheckDateB", "xCloth", "xCornet", "xCountry", "xDefClass", "xDefWitClass", "xDegree", "xDimis", "xDimisDate", "xDimisMode", "xDuty", "xEName", "xEditOwner", "xFName", "xFingerDate", "xFingerID", "xGUID", "xGroup", "xHolGroup", "xIDAddr", "xIDNo", "xInWorkSubPay", "xInsureNo", "xIntroPay", "xIntroducer", "xIsCard", "xIsCheck", "xIsCheckB", "xIsClasswit", "xIsDeclarer", "xIsFinger", "xIsFremd", "xIsFullCheck", "xIsGetCard", "xIsGrow", "xIsInside", "xIsInsure", "xIsManager", "xIsOK", "xIsPay", "xIsPhoto", "xIsSafety", "xIsSecret", "xIsSynch", "xIsTryout", "xIsUseWEB", "xJobDate", "xJobInfo", "xJobKind", "xJobLevel", "xJoinDate", "xKind", "xKindDept", "xLName", "xLead", "xLevel", "xMach", "xMachGroup", "xMachNo", "xName", "xName2", "xNation", "xNative", "xNo", "xNoHead", "xNote", "xOldJoinDate", "xOrder", "xPact", "xPants", "xPassword", "xPaytype", "xPic", "xPic2", "xPic3", "xPolity", "xPost", "xPregnancy", "xQBDate", "xQEDate", "xRegion", "xRemark", "xResidentCard", "xRestDays", "xSKill", "xSecretKind", "xSex", "xShoes", "xShoesIndex", "xShoesNo", "xSpell", "xStr1", "xStr2", "xStr3", "xTag", "xTagBool", "xTagStr", "xTheBirth", "xWed", "xWorkDate", "xWorkDays" FROM ht_empl WHERE ("xNo" = ?)
+	bind => [08014]
+Query: ReadAllQuery(referenceClass=HtEmpl sql="SELECT sID, "rDept_ID", "rFlow_ID", "rIntro_ID", "rJob_ID", "sAuditor", "sChecker", "sCreateDate", "sLastUpdate", "sMender", "sOwner", "sStatus", "sVerNo", "xAJoinDate", "xAPaytype", "xBDimisDate", "xBDimisMode", "xBTag", "xBedNo", "xBirth", "xBirth2", "xCard", "xCheckDate", "xCheckDateB", "xCloth", "xCornet", "xCountry", "xDefClass", "xDefWitClass", "xDegree", "xDimis", "xDimisDate", "xDimisMode", "xDuty", "xEName", "xEditOwner", "xFName", "xFingerDate", "xFingerID", "xGUID", "xGroup", "xHolGroup", "xIDAddr", "xIDNo", "xInWorkSubPay", "xInsureNo", "xIntroPay", "xIntroducer", "xIsCard", "xIsCheck", "xIsCheckB", "xIsClasswit", "xIsDeclarer", "xIsFinger", "xIsFremd", "xIsFullCheck", "xIsGetCard", "xIsGrow", "xIsInside", "xIsInsure", "xIsManager", "xIsOK", "xIsPay", "xIsPhoto", "xIsSafety", "xIsSecret", "xIsSynch", "xIsTryout", "xIsUseWEB", "xJobDate", "xJobInfo", "xJobKind", "xJobLevel", "xJoinDate", "xKind", "xKindDept", "xLName", "xLead", "xLevel", "xMach", "xMachGroup", "xMachNo", "xName", "xName2", "xNation", "xNative", "xNo", "xNoHead", "xNote", "xOldJoinDate", "xOrder", "xPact", "xPants", "xPassword", "xPaytype", "xPic", "xPic2", "xPic3", "xPolity", "xPost", "xPregnancy", "xQBDate", "xQEDate", "xRegion", "xRemark", "xResidentCard", "xRestDays", "xSKill", "xSecretKind", "xSex", "xShoes", "xShoesIndex", "xShoesNo", "xSpell", "xStr1", "xStr2", "xStr3", "xTag", "xTagBool", "xTagStr", "xTheBirth", "xWed", "xWorkDate", "xWorkDays" FROM ht_empl WHERE ("xNo" = ?)")
+	at org.eclipse.persistence.internal.jpa.QueryImpl.getDetailedException(QueryImpl.java:382)
+	at org.eclipse.persistence.internal.jpa.QueryImpl.executeReadQuery(QueryImpl.java:260)
+	at org.eclipse.persistence.internal.jpa.QueryImpl.getSingleResult(QueryImpl.java:521)
+	at org.eclipse.persistence.internal.jpa.EJBQueryImpl.getSingleResult(EJBQueryImpl.java:401)
+	at com.haulmont.cuba.core.sys.QueryImpl.getResultFromCache(QueryImpl.java:617)
+	at com.haulmont.cuba.core.sys.QueryImpl.getSingleResult(QueryImpl.java:335)
+	at com.artwell.inspectionrecord.service.EmployeeServiceBean.getLoginInfobyCode(EmployeeServiceBean.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:333)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:190)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:85)
+	at com.haulmont.cuba.core.sys.ServiceInterceptor.aroundInvoke(ServiceInterceptor.java:115)
+	at sun.reflect.GeneratedMethodAccessor166.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:629)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:618)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:70)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:168)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:213)
+	at com.sun.proxy.$Proxy220.getLoginInfobyCode(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.haulmont.cuba.core.sys.remoting.LocalServiceInvokerImpl.invoke(LocalServiceInvokerImpl.java:94)
+	at com.haulmont.cuba.web.sys.remoting.LocalServiceProxy$LocalServiceInvocationHandler.invoke(LocalServiceProxy.java:148)
+	at com.sun.proxy.$Proxy55.getLoginInfobyCode(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.haulmont.restapi.service.ServicesControllerManager._invokeServiceMethod(ServicesControllerManager.java:135)
+	at com.haulmont.restapi.service.ServicesControllerManager.invokeServiceMethodGet(ServicesControllerManager.java:82)
+	at com.haulmont.restapi.controllers.ServicesController.invokeServiceMethodGet(ServicesController.java:61)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at com.haulmont.restapi.auth.CubaRestLastSecurityFilter.doFilter(CubaRestLastSecurityFilter.java:59)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at com.haulmont.restapi.auth.CubaAnonymousAuthenticationFilter.doFilter(CubaAnonymousAuthenticationFilter.java:66)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter.doFilter(OAuth2AuthenticationProcessingFilter.java:176)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:64)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:177)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.handleNotFiltered(CubaHttpFilter.java:108)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:95)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.eclipse.persistence.exceptions.DatabaseException: 
+Internal Exception: com.microsoft.sqlserver.jdbc.SQLServerException: Read timed out
+Error Code: 0
+Call: SELECT sID, "rDept_ID", "rFlow_ID", "rIntro_ID", "rJob_ID", "sAuditor", "sChecker", "sCreateDate", "sLastUpdate", "sMender", "sOwner", "sStatus", "sVerNo", "xAJoinDate", "xAPaytype", "xBDimisDate", "xBDimisMode", "xBTag", "xBedNo", "xBirth", "xBirth2", "xCard", "xCheckDate", "xCheckDateB", "xCloth", "xCornet", "xCountry", "xDefClass", "xDefWitClass", "xDegree", "xDimis", "xDimisDate", "xDimisMode", "xDuty", "xEName", "xEditOwner", "xFName", "xFingerDate", "xFingerID", "xGUID", "xGroup", "xHolGroup", "xIDAddr", "xIDNo", "xInWorkSubPay", "xInsureNo", "xIntroPay", "xIntroducer", "xIsCard", "xIsCheck", "xIsCheckB", "xIsClasswit", "xIsDeclarer", "xIsFinger", "xIsFremd", "xIsFullCheck", "xIsGetCard", "xIsGrow", "xIsInside", "xIsInsure", "xIsManager", "xIsOK", "xIsPay", "xIsPhoto", "xIsSafety", "xIsSecret", "xIsSynch", "xIsTryout", "xIsUseWEB", "xJobDate", "xJobInfo", "xJobKind", "xJobLevel", "xJoinDate", "xKind", "xKindDept", "xLName", "xLead", "xLevel", "xMach", "xMachGroup", "xMachNo", "xName", "xName2", "xNation", "xNative", "xNo", "xNoHead", "xNote", "xOldJoinDate", "xOrder", "xPact", "xPants", "xPassword", "xPaytype", "xPic", "xPic2", "xPic3", "xPolity", "xPost", "xPregnancy", "xQBDate", "xQEDate", "xRegion", "xRemark", "xResidentCard", "xRestDays", "xSKill", "xSecretKind", "xSex", "xShoes", "xShoesIndex", "xShoesNo", "xSpell", "xStr1", "xStr2", "xStr3", "xTag", "xTagBool", "xTagStr", "xTheBirth", "xWed", "xWorkDate", "xWorkDays" FROM ht_empl WHERE ("xNo" = ?)
+	bind => [08014]
+Query: ReadAllQuery(referenceClass=HtEmpl sql="SELECT sID, "rDept_ID", "rFlow_ID", "rIntro_ID", "rJob_ID", "sAuditor", "sChecker", "sCreateDate", "sLastUpdate", "sMender", "sOwner", "sStatus", "sVerNo", "xAJoinDate", "xAPaytype", "xBDimisDate", "xBDimisMode", "xBTag", "xBedNo", "xBirth", "xBirth2", "xCard", "xCheckDate", "xCheckDateB", "xCloth", "xCornet", "xCountry", "xDefClass", "xDefWitClass", "xDegree", "xDimis", "xDimisDate", "xDimisMode", "xDuty", "xEName", "xEditOwner", "xFName", "xFingerDate", "xFingerID", "xGUID", "xGroup", "xHolGroup", "xIDAddr", "xIDNo", "xInWorkSubPay", "xInsureNo", "xIntroPay", "xIntroducer", "xIsCard", "xIsCheck", "xIsCheckB", "xIsClasswit", "xIsDeclarer", "xIsFinger", "xIsFremd", "xIsFullCheck", "xIsGetCard", "xIsGrow", "xIsInside", "xIsInsure", "xIsManager", "xIsOK", "xIsPay", "xIsPhoto", "xIsSafety", "xIsSecret", "xIsSynch", "xIsTryout", "xIsUseWEB", "xJobDate", "xJobInfo", "xJobKind", "xJobLevel", "xJoinDate", "xKind", "xKindDept", "xLName", "xLead", "xLevel", "xMach", "xMachGroup", "xMachNo", "xName", "xName2", "xNation", "xNative", "xNo", "xNoHead", "xNote", "xOldJoinDate", "xOrder", "xPact", "xPants", "xPassword", "xPaytype", "xPic", "xPic2", "xPic3", "xPolity", "xPost", "xPregnancy", "xQBDate", "xQEDate", "xRegion", "xRemark", "xResidentCard", "xRestDays", "xSKill", "xSecretKind", "xSex", "xShoes", "xShoesIndex", "xShoesNo", "xSpell", "xStr1", "xStr2", "xStr3", "xTag", "xTagBool", "xTagStr", "xTheBirth", "xWed", "xWorkDate", "xWorkDays" FROM ht_empl WHERE ("xNo" = ?)")
+	at org.eclipse.persistence.exceptions.DatabaseException.sqlException(DatabaseException.java:340)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.processExceptionForCommError(DatabaseAccessor.java:1620)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:676)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:560)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2052)
+	at org.eclipse.persistence.sessions.server.ServerSession.executeCall(ServerSession.java:570)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:258)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.executeCall(ExpressionQueryMechanism.java:2863)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeSelectCall(DatasourceCallQueryMechanism.java:299)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.selectAllRows(DatasourceCallQueryMechanism.java:694)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectAllRowsFromTable(ExpressionQueryMechanism.java:2751)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectAllRows(ExpressionQueryMechanism.java:2704)
+	at org.eclipse.persistence.queries.ReadAllQuery.executeObjectLevelReadQuery(ReadAllQuery.java:559)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeDatabaseQuery(ObjectLevelReadQuery.java:1172)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:904)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.execute(ObjectLevelReadQuery.java:1131)
+	at org.eclipse.persistence.queries.ReadAllQuery.execute(ReadAllQuery.java:460)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeInUnitOfWork(ObjectLevelReadQuery.java:1219)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2944)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1854)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.retryQuery(AbstractSession.java:1924)
+	at org.eclipse.persistence.sessions.server.ClientSession.retryQuery(ClientSession.java:694)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.retryQuery(UnitOfWorkImpl.java:5584)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1890)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.retryQuery(AbstractSession.java:1924)
+	at org.eclipse.persistence.sessions.server.ClientSession.retryQuery(ClientSession.java:694)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.retryQuery(UnitOfWorkImpl.java:5584)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1890)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.retryQuery(AbstractSession.java:1924)
+	at org.eclipse.persistence.sessions.server.ClientSession.retryQuery(ClientSession.java:694)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.retryQuery(UnitOfWorkImpl.java:5584)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1890)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.retryQuery(AbstractSession.java:1924)
+	at org.eclipse.persistence.sessions.server.ClientSession.retryQuery(ClientSession.java:694)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.retryQuery(UnitOfWorkImpl.java:5584)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1890)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1836)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1801)
+	at org.eclipse.persistence.internal.jpa.QueryImpl.executeReadQuery(QueryImpl.java:258)
+	... 113 common frames omitted
+Caused by: com.microsoft.sqlserver.jdbc.SQLServerException: Read timed out
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.terminate(SQLServerConnection.java:2392)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.terminate(SQLServerConnection.java:2376)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.read(IOBuffer.java:1900)
+	at com.microsoft.sqlserver.jdbc.TDSReader.readPacket(IOBuffer.java:6674)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.startResponse(IOBuffer.java:7989)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:458)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:405)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:7535)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:2438)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:208)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:183)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.executeQuery(SQLServerPreparedStatement.java:317)
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:82)
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:82)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeSelect(DatabaseAccessor.java:1009)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:644)
+	... 151 common frames omitted
+2017-12-12 09:15:52.835 ERROR [http-nio-8080-exec-2/app/admin] com.haulmont.restapi.service.ServicesControllerManager - Error on service method invoke
+com.haulmont.cuba.core.global.RemoteException: Read timed out
+	at com.haulmont.cuba.core.sys.ServiceInterceptor.aroundInvoke(ServiceInterceptor.java:127)
+	at sun.reflect.GeneratedMethodAccessor166.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:629)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:618)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:70)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:168)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:213)
+	at com.sun.proxy.$Proxy220.getLoginInfobyCode(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.haulmont.cuba.core.sys.remoting.LocalServiceInvokerImpl.invoke(LocalServiceInvokerImpl.java:94)
+	at com.haulmont.cuba.web.sys.remoting.LocalServiceProxy$LocalServiceInvocationHandler.invoke(LocalServiceProxy.java:148)
+	at com.sun.proxy.$Proxy55.getLoginInfobyCode(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.haulmont.restapi.service.ServicesControllerManager._invokeServiceMethod(ServicesControllerManager.java:135)
+	at com.haulmont.restapi.service.ServicesControllerManager.invokeServiceMethodGet(ServicesControllerManager.java:82)
+	at com.haulmont.restapi.controllers.ServicesController.invokeServiceMethodGet(ServicesController.java:61)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at com.haulmont.restapi.auth.CubaRestLastSecurityFilter.doFilter(CubaRestLastSecurityFilter.java:59)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at com.haulmont.restapi.auth.CubaAnonymousAuthenticationFilter.doFilter(CubaAnonymousAuthenticationFilter.java:66)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter.doFilter(OAuth2AuthenticationProcessingFilter.java:176)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:64)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:177)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.handleNotFiltered(CubaHttpFilter.java:108)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:95)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2017-12-12 09:15:52.836 INFO  [http-nio-8080-exec-2/app/admin] com.haulmont.restapi.controllers.RestControllerExceptionHandler - RestAPIException: Error on service method invoke, 
+2017-12-12 09:16:13.100 INFO  [http-nio-8080-exec-27] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: e47999f9-3baa-4e61-e84a-cb80de1022fb [admin]
+2017-12-12 09:16:13.104 INFO  [http-nio-8080-exec-27/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 333dfd80-a3f2-45f8-8bcd-09cb6a4f9b86
+2017-12-12 09:16:13.169 DEBUG [http-nio-8080-exec-1/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [333dfd80-a3f2-45f8-8bcd-09cb6a4f9b86] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 09:16:29.735 DEBUG [http-nio-8080-exec-8/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [333dfd80-a3f2-45f8-8bcd-09cb6a4f9b86] POST http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_InspectionRecordService/recordInspection 10.52.0.137
+2017-12-12 09:16:29.741 DEBUG [http-nio-8080-exec-8/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.artwell.inspectionrecord.entity.InspectionRecord-68041794-a646-f485-4465-61a7b30f63dc [new]], removeInstances=[]
+2017-12-12 09:18:16.831 DEBUG [scheduler-10] com.haulmont.cuba.security.app.UserSessions - Removing session due to timeout: 15040154-1db3-7880-0ec0-4c7082154fe3 [admin], since: Tue Dec 12 08:47:00 CST 2017, lastUsed: Tue Dec 12 08:47:00 CST 2017
+2017-12-12 09:20:23.328 DEBUG [http-nio-8080-exec-26] com.haulmont.cuba.web.App - Ping session
+2017-12-12 09:22:16.831 DEBUG [scheduler-10] com.haulmont.cuba.security.app.UserSessions - Removing session due to timeout: f45505aa-0cde-65e7-5c47-199d7c8d9cd8 [admin], since: Tue Dec 12 08:52:08 CST 2017, lastUsed: Tue Dec 12 08:52:08 CST 2017
+2017-12-12 09:27:26.831 DEBUG [scheduler-5] com.haulmont.cuba.security.app.UserSessions - Removing session due to timeout: 1fcb3408-2fd0-c47b-938a-9c86af2c6d9a [admin], since: Tue Dec 12 08:56:52 CST 2017, lastUsed: Tue Dec 12 08:56:52 CST 2017
+2017-12-12 09:28:56.831 DEBUG [scheduler-7] com.haulmont.cuba.security.app.UserSessions - Removing session due to timeout: e2f89871-2cad-92b2-a4de-a29cbe251690 [admin], since: Tue Dec 12 08:58:53 CST 2017, lastUsed: Tue Dec 12 08:58:53 CST 2017
+2017-12-12 09:30:23.338 DEBUG [http-nio-8080-exec-8] com.haulmont.cuba.web.App - Ping session
+2017-12-12 09:31:35.321 INFO  [http-nio-8080-exec-31] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: aeacd3ee-069d-3b97-3b2d-f000b549bbdd [admin]
+2017-12-12 09:31:35.325 INFO  [http-nio-8080-exec-31/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 212e5b4a-a2b3-4c61-9199-b8907cd1f93e
+2017-12-12 09:31:35.803 DEBUG [http-nio-8080-exec-18/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [212e5b4a-a2b3-4c61-9199-b8907cd1f93e] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 09:33:26.936 ERROR [http-nio-8080-exec-18/app-core/admin] com.haulmont.cuba.core.sys.ServiceInterceptor - Exception: 
+javax.persistence.PersistenceException: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.6.2.cuba16): org.eclipse.persistence.exceptions.DatabaseException
+Internal Exception: com.microsoft.sqlserver.jdbc.SQLServerException: Read timed out
+Error Code: 0
+Call: SELECT sID, "rDept_ID", "rFlow_ID", "rIntro_ID", "rJob_ID", "sAuditor", "sChecker", "sCreateDate", "sLastUpdate", "sMender", "sOwner", "sStatus", "sVerNo", "xAJoinDate", "xAPaytype", "xBDimisDate", "xBDimisMode", "xBTag", "xBedNo", "xBirth", "xBirth2", "xCard", "xCheckDate", "xCheckDateB", "xCloth", "xCornet", "xCountry", "xDefClass", "xDefWitClass", "xDegree", "xDimis", "xDimisDate", "xDimisMode", "xDuty", "xEName", "xEditOwner", "xFName", "xFingerDate", "xFingerID", "xGUID", "xGroup", "xHolGroup", "xIDAddr", "xIDNo", "xInWorkSubPay", "xInsureNo", "xIntroPay", "xIntroducer", "xIsCard", "xIsCheck", "xIsCheckB", "xIsClasswit", "xIsDeclarer", "xIsFinger", "xIsFremd", "xIsFullCheck", "xIsGetCard", "xIsGrow", "xIsInside", "xIsInsure", "xIsManager", "xIsOK", "xIsPay", "xIsPhoto", "xIsSafety", "xIsSecret", "xIsSynch", "xIsTryout", "xIsUseWEB", "xJobDate", "xJobInfo", "xJobKind", "xJobLevel", "xJoinDate", "xKind", "xKindDept", "xLName", "xLead", "xLevel", "xMach", "xMachGroup", "xMachNo", "xName", "xName2", "xNation", "xNative", "xNo", "xNoHead", "xNote", "xOldJoinDate", "xOrder", "xPact", "xPants", "xPassword", "xPaytype", "xPic", "xPic2", "xPic3", "xPolity", "xPost", "xPregnancy", "xQBDate", "xQEDate", "xRegion", "xRemark", "xResidentCard", "xRestDays", "xSKill", "xSecretKind", "xSex", "xShoes", "xShoesIndex", "xShoesNo", "xSpell", "xStr1", "xStr2", "xStr3", "xTag", "xTagBool", "xTagStr", "xTheBirth", "xWed", "xWorkDate", "xWorkDays" FROM ht_empl WHERE ("xNo" = ?)
+	bind => [08014]
+Query: ReadAllQuery(referenceClass=HtEmpl sql="SELECT sID, "rDept_ID", "rFlow_ID", "rIntro_ID", "rJob_ID", "sAuditor", "sChecker", "sCreateDate", "sLastUpdate", "sMender", "sOwner", "sStatus", "sVerNo", "xAJoinDate", "xAPaytype", "xBDimisDate", "xBDimisMode", "xBTag", "xBedNo", "xBirth", "xBirth2", "xCard", "xCheckDate", "xCheckDateB", "xCloth", "xCornet", "xCountry", "xDefClass", "xDefWitClass", "xDegree", "xDimis", "xDimisDate", "xDimisMode", "xDuty", "xEName", "xEditOwner", "xFName", "xFingerDate", "xFingerID", "xGUID", "xGroup", "xHolGroup", "xIDAddr", "xIDNo", "xInWorkSubPay", "xInsureNo", "xIntroPay", "xIntroducer", "xIsCard", "xIsCheck", "xIsCheckB", "xIsClasswit", "xIsDeclarer", "xIsFinger", "xIsFremd", "xIsFullCheck", "xIsGetCard", "xIsGrow", "xIsInside", "xIsInsure", "xIsManager", "xIsOK", "xIsPay", "xIsPhoto", "xIsSafety", "xIsSecret", "xIsSynch", "xIsTryout", "xIsUseWEB", "xJobDate", "xJobInfo", "xJobKind", "xJobLevel", "xJoinDate", "xKind", "xKindDept", "xLName", "xLead", "xLevel", "xMach", "xMachGroup", "xMachNo", "xName", "xName2", "xNation", "xNative", "xNo", "xNoHead", "xNote", "xOldJoinDate", "xOrder", "xPact", "xPants", "xPassword", "xPaytype", "xPic", "xPic2", "xPic3", "xPolity", "xPost", "xPregnancy", "xQBDate", "xQEDate", "xRegion", "xRemark", "xResidentCard", "xRestDays", "xSKill", "xSecretKind", "xSex", "xShoes", "xShoesIndex", "xShoesNo", "xSpell", "xStr1", "xStr2", "xStr3", "xTag", "xTagBool", "xTagStr", "xTheBirth", "xWed", "xWorkDate", "xWorkDays" FROM ht_empl WHERE ("xNo" = ?)")
+	at org.eclipse.persistence.internal.jpa.QueryImpl.getDetailedException(QueryImpl.java:382)
+	at org.eclipse.persistence.internal.jpa.QueryImpl.executeReadQuery(QueryImpl.java:260)
+	at org.eclipse.persistence.internal.jpa.QueryImpl.getSingleResult(QueryImpl.java:521)
+	at org.eclipse.persistence.internal.jpa.EJBQueryImpl.getSingleResult(EJBQueryImpl.java:401)
+	at com.haulmont.cuba.core.sys.QueryImpl.getResultFromCache(QueryImpl.java:617)
+	at com.haulmont.cuba.core.sys.QueryImpl.getSingleResult(QueryImpl.java:335)
+	at com.artwell.inspectionrecord.service.EmployeeServiceBean.getLoginInfobyCode(EmployeeServiceBean.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:333)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:190)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:157)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:85)
+	at com.haulmont.cuba.core.sys.ServiceInterceptor.aroundInvoke(ServiceInterceptor.java:115)
+	at sun.reflect.GeneratedMethodAccessor166.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:629)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:618)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:70)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:168)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:213)
+	at com.sun.proxy.$Proxy220.getLoginInfobyCode(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.haulmont.cuba.core.sys.remoting.LocalServiceInvokerImpl.invoke(LocalServiceInvokerImpl.java:94)
+	at com.haulmont.cuba.web.sys.remoting.LocalServiceProxy$LocalServiceInvocationHandler.invoke(LocalServiceProxy.java:148)
+	at com.sun.proxy.$Proxy55.getLoginInfobyCode(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.haulmont.restapi.service.ServicesControllerManager._invokeServiceMethod(ServicesControllerManager.java:135)
+	at com.haulmont.restapi.service.ServicesControllerManager.invokeServiceMethodGet(ServicesControllerManager.java:82)
+	at com.haulmont.restapi.controllers.ServicesController.invokeServiceMethodGet(ServicesController.java:61)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at com.haulmont.restapi.auth.CubaRestLastSecurityFilter.doFilter(CubaRestLastSecurityFilter.java:59)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at com.haulmont.restapi.auth.CubaAnonymousAuthenticationFilter.doFilter(CubaAnonymousAuthenticationFilter.java:66)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter.doFilter(OAuth2AuthenticationProcessingFilter.java:176)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:64)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:177)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.handleNotFiltered(CubaHttpFilter.java:108)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:95)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.eclipse.persistence.exceptions.DatabaseException: 
+Internal Exception: com.microsoft.sqlserver.jdbc.SQLServerException: Read timed out
+Error Code: 0
+Call: SELECT sID, "rDept_ID", "rFlow_ID", "rIntro_ID", "rJob_ID", "sAuditor", "sChecker", "sCreateDate", "sLastUpdate", "sMender", "sOwner", "sStatus", "sVerNo", "xAJoinDate", "xAPaytype", "xBDimisDate", "xBDimisMode", "xBTag", "xBedNo", "xBirth", "xBirth2", "xCard", "xCheckDate", "xCheckDateB", "xCloth", "xCornet", "xCountry", "xDefClass", "xDefWitClass", "xDegree", "xDimis", "xDimisDate", "xDimisMode", "xDuty", "xEName", "xEditOwner", "xFName", "xFingerDate", "xFingerID", "xGUID", "xGroup", "xHolGroup", "xIDAddr", "xIDNo", "xInWorkSubPay", "xInsureNo", "xIntroPay", "xIntroducer", "xIsCard", "xIsCheck", "xIsCheckB", "xIsClasswit", "xIsDeclarer", "xIsFinger", "xIsFremd", "xIsFullCheck", "xIsGetCard", "xIsGrow", "xIsInside", "xIsInsure", "xIsManager", "xIsOK", "xIsPay", "xIsPhoto", "xIsSafety", "xIsSecret", "xIsSynch", "xIsTryout", "xIsUseWEB", "xJobDate", "xJobInfo", "xJobKind", "xJobLevel", "xJoinDate", "xKind", "xKindDept", "xLName", "xLead", "xLevel", "xMach", "xMachGroup", "xMachNo", "xName", "xName2", "xNation", "xNative", "xNo", "xNoHead", "xNote", "xOldJoinDate", "xOrder", "xPact", "xPants", "xPassword", "xPaytype", "xPic", "xPic2", "xPic3", "xPolity", "xPost", "xPregnancy", "xQBDate", "xQEDate", "xRegion", "xRemark", "xResidentCard", "xRestDays", "xSKill", "xSecretKind", "xSex", "xShoes", "xShoesIndex", "xShoesNo", "xSpell", "xStr1", "xStr2", "xStr3", "xTag", "xTagBool", "xTagStr", "xTheBirth", "xWed", "xWorkDate", "xWorkDays" FROM ht_empl WHERE ("xNo" = ?)
+	bind => [08014]
+Query: ReadAllQuery(referenceClass=HtEmpl sql="SELECT sID, "rDept_ID", "rFlow_ID", "rIntro_ID", "rJob_ID", "sAuditor", "sChecker", "sCreateDate", "sLastUpdate", "sMender", "sOwner", "sStatus", "sVerNo", "xAJoinDate", "xAPaytype", "xBDimisDate", "xBDimisMode", "xBTag", "xBedNo", "xBirth", "xBirth2", "xCard", "xCheckDate", "xCheckDateB", "xCloth", "xCornet", "xCountry", "xDefClass", "xDefWitClass", "xDegree", "xDimis", "xDimisDate", "xDimisMode", "xDuty", "xEName", "xEditOwner", "xFName", "xFingerDate", "xFingerID", "xGUID", "xGroup", "xHolGroup", "xIDAddr", "xIDNo", "xInWorkSubPay", "xInsureNo", "xIntroPay", "xIntroducer", "xIsCard", "xIsCheck", "xIsCheckB", "xIsClasswit", "xIsDeclarer", "xIsFinger", "xIsFremd", "xIsFullCheck", "xIsGetCard", "xIsGrow", "xIsInside", "xIsInsure", "xIsManager", "xIsOK", "xIsPay", "xIsPhoto", "xIsSafety", "xIsSecret", "xIsSynch", "xIsTryout", "xIsUseWEB", "xJobDate", "xJobInfo", "xJobKind", "xJobLevel", "xJoinDate", "xKind", "xKindDept", "xLName", "xLead", "xLevel", "xMach", "xMachGroup", "xMachNo", "xName", "xName2", "xNation", "xNative", "xNo", "xNoHead", "xNote", "xOldJoinDate", "xOrder", "xPact", "xPants", "xPassword", "xPaytype", "xPic", "xPic2", "xPic3", "xPolity", "xPost", "xPregnancy", "xQBDate", "xQEDate", "xRegion", "xRemark", "xResidentCard", "xRestDays", "xSKill", "xSecretKind", "xSex", "xShoes", "xShoesIndex", "xShoesNo", "xSpell", "xStr1", "xStr2", "xStr3", "xTag", "xTagBool", "xTagStr", "xTheBirth", "xWed", "xWorkDate", "xWorkDays" FROM ht_empl WHERE ("xNo" = ?)")
+	at org.eclipse.persistence.exceptions.DatabaseException.sqlException(DatabaseException.java:340)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.processExceptionForCommError(DatabaseAccessor.java:1620)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:676)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeCall(DatabaseAccessor.java:560)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.basicExecuteCall(AbstractSession.java:2052)
+	at org.eclipse.persistence.sessions.server.ServerSession.executeCall(ServerSession.java:570)
+	at org.eclipse.persistence.sessions.server.ClientSession.executeCall(ClientSession.java:258)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:242)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.executeCall(ExpressionQueryMechanism.java:2863)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeCall(DatasourceCallQueryMechanism.java:228)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.executeSelectCall(DatasourceCallQueryMechanism.java:299)
+	at org.eclipse.persistence.internal.queries.DatasourceCallQueryMechanism.selectAllRows(DatasourceCallQueryMechanism.java:694)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectAllRowsFromTable(ExpressionQueryMechanism.java:2751)
+	at org.eclipse.persistence.internal.queries.ExpressionQueryMechanism.selectAllRows(ExpressionQueryMechanism.java:2704)
+	at org.eclipse.persistence.queries.ReadAllQuery.executeObjectLevelReadQuery(ReadAllQuery.java:559)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeDatabaseQuery(ObjectLevelReadQuery.java:1172)
+	at org.eclipse.persistence.queries.DatabaseQuery.execute(DatabaseQuery.java:904)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.execute(ObjectLevelReadQuery.java:1131)
+	at org.eclipse.persistence.queries.ReadAllQuery.execute(ReadAllQuery.java:460)
+	at org.eclipse.persistence.queries.ObjectLevelReadQuery.executeInUnitOfWork(ObjectLevelReadQuery.java:1219)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.internalExecuteQuery(UnitOfWorkImpl.java:2944)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1854)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.retryQuery(AbstractSession.java:1924)
+	at org.eclipse.persistence.sessions.server.ClientSession.retryQuery(ClientSession.java:694)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.retryQuery(UnitOfWorkImpl.java:5584)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1890)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.retryQuery(AbstractSession.java:1924)
+	at org.eclipse.persistence.sessions.server.ClientSession.retryQuery(ClientSession.java:694)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.retryQuery(UnitOfWorkImpl.java:5584)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1890)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.retryQuery(AbstractSession.java:1924)
+	at org.eclipse.persistence.sessions.server.ClientSession.retryQuery(ClientSession.java:694)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.retryQuery(UnitOfWorkImpl.java:5584)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1890)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.retryQuery(AbstractSession.java:1924)
+	at org.eclipse.persistence.sessions.server.ClientSession.retryQuery(ClientSession.java:694)
+	at org.eclipse.persistence.internal.sessions.UnitOfWorkImpl.retryQuery(UnitOfWorkImpl.java:5584)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1890)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1836)
+	at org.eclipse.persistence.internal.sessions.AbstractSession.executeQuery(AbstractSession.java:1801)
+	at org.eclipse.persistence.internal.jpa.QueryImpl.executeReadQuery(QueryImpl.java:258)
+	... 113 common frames omitted
+Caused by: com.microsoft.sqlserver.jdbc.SQLServerException: Read timed out
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.terminate(SQLServerConnection.java:2392)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.terminate(SQLServerConnection.java:2376)
+	at com.microsoft.sqlserver.jdbc.TDSChannel.read(IOBuffer.java:1900)
+	at com.microsoft.sqlserver.jdbc.TDSReader.readPacket(IOBuffer.java:6674)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.startResponse(IOBuffer.java:7989)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.doExecutePreparedStatement(SQLServerPreparedStatement.java:458)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement$PrepStmtExecCmd.doExecute(SQLServerPreparedStatement.java:405)
+	at com.microsoft.sqlserver.jdbc.TDSCommand.execute(IOBuffer.java:7535)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.executeCommand(SQLServerConnection.java:2438)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeCommand(SQLServerStatement.java:208)
+	at com.microsoft.sqlserver.jdbc.SQLServerStatement.executeStatement(SQLServerStatement.java:183)
+	at com.microsoft.sqlserver.jdbc.SQLServerPreparedStatement.executeQuery(SQLServerPreparedStatement.java:317)
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:82)
+	at org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.executeQuery(DelegatingPreparedStatement.java:82)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.executeSelect(DatabaseAccessor.java:1009)
+	at org.eclipse.persistence.internal.databaseaccess.DatabaseAccessor.basicExecuteCall(DatabaseAccessor.java:644)
+	... 151 common frames omitted
+2017-12-12 09:33:26.949 ERROR [http-nio-8080-exec-18/app/admin] com.haulmont.restapi.service.ServicesControllerManager - Error on service method invoke
+com.haulmont.cuba.core.global.RemoteException: Read timed out
+	at com.haulmont.cuba.core.sys.ServiceInterceptor.aroundInvoke(ServiceInterceptor.java:127)
+	at sun.reflect.GeneratedMethodAccessor166.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:629)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:618)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:70)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:168)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:92)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:213)
+	at com.sun.proxy.$Proxy220.getLoginInfobyCode(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.haulmont.cuba.core.sys.remoting.LocalServiceInvokerImpl.invoke(LocalServiceInvokerImpl.java:94)
+	at com.haulmont.cuba.web.sys.remoting.LocalServiceProxy$LocalServiceInvocationHandler.invoke(LocalServiceProxy.java:148)
+	at com.sun.proxy.$Proxy55.getLoginInfobyCode(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.haulmont.restapi.service.ServicesControllerManager._invokeServiceMethod(ServicesControllerManager.java:135)
+	at com.haulmont.restapi.service.ServicesControllerManager.invokeServiceMethodGet(ServicesControllerManager.java:82)
+	at com.haulmont.restapi.controllers.ServicesController.invokeServiceMethodGet(ServicesController.java:61)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at com.haulmont.restapi.auth.CubaRestLastSecurityFilter.doFilter(CubaRestLastSecurityFilter.java:59)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at com.haulmont.restapi.auth.CubaAnonymousAuthenticationFilter.doFilter(CubaAnonymousAuthenticationFilter.java:66)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter.doFilter(OAuth2AuthenticationProcessingFilter.java:176)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:64)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:177)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.handleNotFiltered(CubaHttpFilter.java:108)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:95)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2017-12-12 09:33:26.952 INFO  [http-nio-8080-exec-18/app/admin] com.haulmont.restapi.controllers.RestControllerExceptionHandler - RestAPIException: Error on service method invoke, 
+2017-12-12 09:33:51.744 INFO  [http-nio-8080-exec-25] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: ee226847-b626-ab7b-b73b-88c3b3891f7b [admin]
+2017-12-12 09:33:51.749 INFO  [http-nio-8080-exec-25/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] d5bf5f35-9050-4f65-9edd-9b9ba993d5f6
+2017-12-12 09:33:51.797 DEBUG [http-nio-8080-exec-8/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [d5bf5f35-9050-4f65-9edd-9b9ba993d5f6] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 09:34:39.013 DEBUG [http-nio-8080-exec-29/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [d5bf5f35-9050-4f65-9edd-9b9ba993d5f6] POST http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_InspectionRecordService/recordInspection 10.52.0.137
+2017-12-12 09:34:39.017 ERROR [http-nio-8080-exec-29/app/admin] com.haulmont.restapi.controllers.RestControllerExceptionHandler - Exception in REST controller
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 218 path $
+	at com.google.gson.JsonParser.parse(JsonParser.java:65)
+	at com.google.gson.JsonParser.parse(JsonParser.java:45)
+	at com.haulmont.restapi.common.RestParseUtils.parseParamsJson(RestParseUtils.java:139)
+	at com.haulmont.restapi.service.ServicesControllerManager.invokeServiceMethodPost(ServicesControllerManager.java:87)
+	at com.haulmont.restapi.controllers.ServicesController.invokeServiceMethodPost(ServicesController.java:44)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at com.haulmont.restapi.auth.CubaRestLastSecurityFilter.doFilter(CubaRestLastSecurityFilter.java:59)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at com.haulmont.restapi.auth.CubaAnonymousAuthenticationFilter.doFilter(CubaAnonymousAuthenticationFilter.java:66)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter.doFilter(OAuth2AuthenticationProcessingFilter.java:176)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:64)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:177)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.handleNotFiltered(CubaHttpFilter.java:108)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:95)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 218 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542)
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+	at com.google.gson.JsonParser.parse(JsonParser.java:60)
+	... 78 common frames omitted
+2017-12-12 09:35:16.831 DEBUG [scheduler-2] com.haulmont.cuba.security.app.UserSessions - Removing session due to timeout: e3570808-5001-e5b8-ad96-fa54b9ec91a0 [admin], since: Tue Dec 12 09:03:58 CST 2017, lastUsed: Tue Dec 12 09:03:58 CST 2017
+2017-12-12 09:40:16.831 DEBUG [scheduler-10] com.haulmont.cuba.security.app.UserSessions - Removing session due to timeout: 8c79199b-d951-4d26-f6be-3ae929eb0f70 [admin], since: Tue Dec 12 09:10:06 CST 2017, lastUsed: Tue Dec 12 09:10:06 CST 2017
+2017-12-12 09:40:23.678 DEBUG [http-nio-8080-exec-1] com.haulmont.cuba.web.App - Ping session
+2017-12-12 09:41:26.788 INFO  [http-nio-8080-exec-12] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 92113f5a-39e9-2e67-514c-0b8fce54415a [admin]
+2017-12-12 09:41:26.793 INFO  [http-nio-8080-exec-12/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] a60e53b5-49d0-4034-a256-5f4a366976ea
+2017-12-12 09:41:27.069 DEBUG [http-nio-8080-exec-20/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [a60e53b5-49d0-4034-a256-5f4a366976ea] POST http://localhost:8080/app/rest/v2/services/inspectionrecord_InspectionRecordService/recordInspection 127.0.0.1
+2017-12-12 09:41:27.072 ERROR [http-nio-8080-exec-20/app/admin] com.haulmont.restapi.controllers.RestControllerExceptionHandler - Exception in REST controller
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 162 path $
+	at com.google.gson.JsonParser.parse(JsonParser.java:65)
+	at com.google.gson.JsonParser.parse(JsonParser.java:45)
+	at com.haulmont.restapi.common.RestParseUtils.parseParamsJson(RestParseUtils.java:139)
+	at com.haulmont.restapi.service.ServicesControllerManager.invokeServiceMethodPost(ServicesControllerManager.java:87)
+	at com.haulmont.restapi.controllers.ServicesController.invokeServiceMethodPost(ServicesController.java:44)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at com.haulmont.restapi.auth.CubaRestLastSecurityFilter.doFilter(CubaRestLastSecurityFilter.java:59)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at com.haulmont.restapi.auth.CubaAnonymousAuthenticationFilter.doFilter(CubaAnonymousAuthenticationFilter.java:66)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter.doFilter(OAuth2AuthenticationProcessingFilter.java:176)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:64)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:177)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.handleNotFiltered(CubaHttpFilter.java:108)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:95)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 162 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542)
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+	at com.google.gson.JsonParser.parse(JsonParser.java:60)
+	... 78 common frames omitted
+2017-12-12 09:41:55.155 INFO  [http-nio-8080-exec-12] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 44d6a269-2598-6a49-9e58-be6f30297afc [admin]
+2017-12-12 09:41:55.161 INFO  [http-nio-8080-exec-12/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 97e2254e-9dd8-481b-ab40-e77c64621b74
+2017-12-12 09:41:55.390 DEBUG [http-nio-8080-exec-19/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [97e2254e-9dd8-481b-ab40-e77c64621b74] POST http://localhost:8080/app/rest/v2/services/inspectionrecord_InspectionRecordService/recordInspection 127.0.0.1
+2017-12-12 09:41:55.393 ERROR [http-nio-8080-exec-19/app/admin] com.haulmont.restapi.controllers.RestControllerExceptionHandler - Exception in REST controller
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 162 path $
+	at com.google.gson.JsonParser.parse(JsonParser.java:65)
+	at com.google.gson.JsonParser.parse(JsonParser.java:45)
+	at com.haulmont.restapi.common.RestParseUtils.parseParamsJson(RestParseUtils.java:139)
+	at com.haulmont.restapi.service.ServicesControllerManager.invokeServiceMethodPost(ServicesControllerManager.java:87)
+	at com.haulmont.restapi.controllers.ServicesController.invokeServiceMethodPost(ServicesController.java:44)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at com.haulmont.restapi.auth.CubaRestLastSecurityFilter.doFilter(CubaRestLastSecurityFilter.java:59)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at com.haulmont.restapi.auth.CubaAnonymousAuthenticationFilter.doFilter(CubaAnonymousAuthenticationFilter.java:66)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter.doFilter(OAuth2AuthenticationProcessingFilter.java:176)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:64)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:177)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.handleNotFiltered(CubaHttpFilter.java:108)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:95)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 162 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542)
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+	at com.google.gson.JsonParser.parse(JsonParser.java:60)
+	... 78 common frames omitted
+2017-12-12 09:43:07.864 INFO  [http-nio-8080-exec-9] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 83266823-a1e4-354a-5bf2-8e93b9409773 [admin]
+2017-12-12 09:43:07.882 INFO  [http-nio-8080-exec-9/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 39292256-6176-45ea-a342-055e30395db9
+2017-12-12 09:43:08.100 DEBUG [http-nio-8080-exec-21/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [39292256-6176-45ea-a342-055e30395db9] POST http://localhost:8080/app/rest/v2/services/inspectionrecord_InspectionRecordService/recordInspection 127.0.0.1
+2017-12-12 09:43:08.104 ERROR [http-nio-8080-exec-21/app/admin] com.haulmont.restapi.controllers.RestControllerExceptionHandler - Exception in REST controller
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 162 path $
+	at com.google.gson.JsonParser.parse(JsonParser.java:65)
+	at com.google.gson.JsonParser.parse(JsonParser.java:45)
+	at com.haulmont.restapi.common.RestParseUtils.parseParamsJson(RestParseUtils.java:139)
+	at com.haulmont.restapi.service.ServicesControllerManager.invokeServiceMethodPost(ServicesControllerManager.java:87)
+	at com.haulmont.restapi.controllers.ServicesController.invokeServiceMethodPost(ServicesController.java:44)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:897)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:317)
+	at com.haulmont.restapi.auth.CubaRestLastSecurityFilter.doFilter(CubaRestLastSecurityFilter.java:59)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:127)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:91)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:114)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:170)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at com.haulmont.restapi.auth.CubaAnonymousAuthenticationFilter.doFilter(CubaAnonymousAuthenticationFilter.java:66)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter.doFilter(OAuth2AuthenticationProcessingFilter.java:176)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:64)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:331)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:214)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:177)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:262)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.handleNotFiltered(CubaHttpFilter.java:108)
+	at com.haulmont.cuba.web.sys.CubaHttpFilter.doFilter(CubaHttpFilter.java:95)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:624)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:861)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 162 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1401)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:542)
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:425)
+	at com.google.gson.JsonParser.parse(JsonParser.java:60)
+	... 78 common frames omitted
+2017-12-12 09:44:06.831 DEBUG [scheduler-6] com.haulmont.cuba.security.app.UserSessions - Removing session due to timeout: 014c0d03-340c-f22e-f17a-d0a3a70b6d08 [admin], since: Tue Dec 12 09:13:59 CST 2017, lastUsed: Tue Dec 12 09:13:59 CST 2017
+2017-12-12 09:44:23.079 INFO  [http-nio-8080-exec-30] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 99d92b35-e7ac-717b-e031-492cea6ecbdc [admin]
+2017-12-12 09:44:23.083 INFO  [http-nio-8080-exec-30/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] fec4d1f8-661e-4819-b369-264986d65c26
+2017-12-12 09:44:23.303 DEBUG [http-nio-8080-exec-6/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [fec4d1f8-661e-4819-b369-264986d65c26] POST http://localhost:8080/app/rest/v2/services/inspectionrecord_InspectionRecordService/recordInspection 127.0.0.1
+2017-12-12 09:44:23.314 DEBUG [http-nio-8080-exec-6/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.artwell.inspectionrecord.entity.InspectionRecord-2d8cea07-b28d-cd72-6ca9-a434386db02e [new]], removeInstances=[]
+2017-12-12 09:46:36.831 DEBUG [scheduler-2] com.haulmont.cuba.security.app.UserSessions - Removing session due to timeout: e47999f9-3baa-4e61-e84a-cb80de1022fb [admin], since: Tue Dec 12 09:16:13 CST 2017, lastUsed: Tue Dec 12 09:16:29 CST 2017
+2017-12-12 09:48:02.158 INFO  [http-nio-8080-exec-19] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 62eaa547-7e80-c114-a104-42d04eff9b5f [admin]
+2017-12-12 09:48:02.163 INFO  [http-nio-8080-exec-19/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 92dfe415-cf13-472a-8fa5-05d800ab8d88
+2017-12-12 09:48:02.531 DEBUG [http-nio-8080-exec-17/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [92dfe415-cf13-472a-8fa5-05d800ab8d88] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 09:48:07.256 DEBUG [http-nio-8080-exec-3/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [92dfe415-cf13-472a-8fa5-05d800ab8d88] POST http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_InspectionRecordService/recordInspection 10.52.0.137
+2017-12-12 09:48:07.273 DEBUG [http-nio-8080-exec-3/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.artwell.inspectionrecord.entity.InspectionRecord-1d95d708-6d3d-aa6a-d208-0e9449062b6b [new]], removeInstances=[]
+2017-12-12 09:48:24.454 DEBUG [http-nio-8080-exec-8] com.haulmont.cuba.web.AppUI - Ping middleware session
+2017-12-12 09:48:26.981 DEBUG [http-nio-8080-exec-14/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=174de7a9-cfee-66b9-3c75-0a273940e8ca, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:48:27.016 DEBUG [http-nio-8080-exec-14/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:48:27.631 DEBUG [http-nio-8080-exec-18/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=0187850b-a779-d995-595d-84115be4a41e, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:48:27.653 DEBUG [http-nio-8080-exec-18/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:48:32.164 DEBUG [http-nio-8080-exec-4/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$UserSubstitution, view=com.haulmont.cuba.security.entity.UserSubstitution/app, query=select us from sec$UserSubstitution us where us.user.id = :userId and (us.endDate is null or us.endDate >= :currentDate) and (us.startDate is null or us.startDate <= :currentDate) and (us.substitutedUser.active = true or us.substitutedUser.active is null) order by us.substitutedUser.name
+2017-12-12 09:48:32.188 DEBUG [http-nio-8080-exec-4/app-core/admin] com.haulmont.cuba.core.app.FoldersServiceBean - Loading AppFolders
+2017-12-12 09:48:32.192 DEBUG [http-nio-8080-exec-4/app-core/admin] com.haulmont.cuba.core.app.FoldersServiceBean - Loading SearchFolders
+2017-12-12 09:48:34.852 DEBUG [http-nio-8080-exec-12/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2017-12-12 09:48:34.873 DEBUG [http-nio-8080-exec-12/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=inspectionrecord$InspectionRecord, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view, query=select e from inspectionrecord$InspectionRecord e, max=50
+2017-12-12 09:48:34.888 DEBUG [http-nio-8080-exec-12/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:48:36.904 DEBUG [http-nio-8080-exec-17/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=0187850b-a779-d995-595d-84115be4a41e, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:48:36.925 DEBUG [http-nio-8080-exec-17/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:48:39.831 DEBUG [http-nio-8080-exec-3/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=174de7a9-cfee-66b9-3c75-0a273940e8ca, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:48:39.850 DEBUG [http-nio-8080-exec-3/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:48:40.751 DEBUG [http-nio-8080-exec-18/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=1d95d708-6d3d-aa6a-d208-0e9449062b6b, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:48:40.769 DEBUG [http-nio-8080-exec-18/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:48:41.343 DEBUG [http-nio-8080-exec-28/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=1fb34f4b-43c2-e2fd-84b3-c454472211f8, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:48:41.358 DEBUG [http-nio-8080-exec-28/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:48:41.871 DEBUG [http-nio-8080-exec-9/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=2d8cea07-b28d-cd72-6ca9-a434386db02e, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:48:41.890 DEBUG [http-nio-8080-exec-9/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:48:42.273 DEBUG [http-nio-8080-exec-5/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=47b8055e-a23a-472e-93ad-af2ce70c3235, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:48:42.291 DEBUG [http-nio-8080-exec-5/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:48:46.319 DEBUG [http-nio-8080-exec-4/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=6a387da0-09e3-f62b-285e-31d61d899c88, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:48:46.336 DEBUG [http-nio-8080-exec-4/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:48:49.895 DEBUG [http-nio-8080-exec-13/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=1d95d708-6d3d-aa6a-d208-0e9449062b6b, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:48:49.918 DEBUG [http-nio-8080-exec-13/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:48:51.495 DEBUG [http-nio-8080-exec-1/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=2d8cea07-b28d-cd72-6ca9-a434386db02e, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:48:51.525 DEBUG [http-nio-8080-exec-1/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:48:52.462 DEBUG [http-nio-8080-exec-2/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=1d95d708-6d3d-aa6a-d208-0e9449062b6b, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:48:52.509 DEBUG [http-nio-8080-exec-2/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:49:14.788 INFO  [http-nio-8080-exec-3] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 800da702-dd6a-49c5-812d-3b02c2405049 [admin]
+2017-12-12 09:49:14.792 INFO  [http-nio-8080-exec-3/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 5bd14aea-e56b-4730-92d1-b363cc0af94d
+2017-12-12 09:49:15.005 DEBUG [http-nio-8080-exec-11/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [5bd14aea-e56b-4730-92d1-b363cc0af94d] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 09:49:31.143 INFO  [http-nio-8080-exec-30] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: b51cfa92-e5fe-7d48-ed39-4dd6a2e75550 [admin]
+2017-12-12 09:49:31.148 INFO  [http-nio-8080-exec-30/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 4de3a39d-5d0f-4218-93b9-98fd869c6a3e
+2017-12-12 09:49:31.199 DEBUG [http-nio-8080-exec-8/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [4de3a39d-5d0f-4218-93b9-98fd869c6a3e] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=080141 10.52.0.137
+2017-12-12 09:49:31.874 INFO  [http-nio-8080-exec-12] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 8bc7849c-9763-4838-a636-25a513c1f82b [admin]
+2017-12-12 09:49:31.879 INFO  [http-nio-8080-exec-12/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] b4370a93-0db7-4187-a830-faa1b4342b10
+2017-12-12 09:49:31.926 DEBUG [http-nio-8080-exec-6/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [b4370a93-0db7-4187-a830-faa1b4342b10] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=080141 10.52.0.137
+2017-12-12 09:49:35.887 INFO  [http-nio-8080-exec-25] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 3957137c-36a0-ee9b-a01f-dca9d3e5cb08 [admin]
+2017-12-12 09:49:35.890 INFO  [http-nio-8080-exec-25/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 7747bc93-74cd-4f8f-9fd3-0cb34e7623c1
+2017-12-12 09:49:35.926 DEBUG [http-nio-8080-exec-22/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [7747bc93-74cd-4f8f-9fd3-0cb34e7623c1] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=080141 10.52.0.137
+2017-12-12 09:49:39.334 INFO  [http-nio-8080-exec-18] com.haulmont.cuba.security.app.LoginWorkerBean - Logged in: 9df38cd3-f41b-2354-e3f9-2c81412e0c52 [admin]
+2017-12-12 09:49:39.338 INFO  [http-nio-8080-exec-18/app/admin] com.haulmont.restapi.auth.ClientProxyTokenStore - REST API access token stored: [admin] 433541c9-2db4-4a71-bb81-36b050a7fef4
+2017-12-12 09:49:39.384 DEBUG [http-nio-8080-exec-23/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [433541c9-2db4-4a71-bb81-36b050a7fef4] GET http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_EmployeeService/getLoginInfobyCode?code=08014 10.52.0.137
+2017-12-12 09:49:57.235 DEBUG [http-nio-8080-exec-12/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [433541c9-2db4-4a71-bb81-36b050a7fef4] POST http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_InspectionRecordService/recordInspection 10.52.0.137
+2017-12-12 09:49:57.249 DEBUG [http-nio-8080-exec-12/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.artwell.inspectionrecord.entity.InspectionRecord-26a88136-8343-1228-5eef-6a71f7364609 [new]], removeInstances=[]
+2017-12-12 09:50:01.111 DEBUG [http-nio-8080-exec-20/app/admin] com.haulmont.restapi.auth.CubaRestLastSecurityFilter - REST API request [433541c9-2db4-4a71-bb81-36b050a7fef4] POST http://10.52.0.52:8080/app/rest/v2/services/inspectionrecord_InspectionRecordService/recordInspection 10.52.0.137
+2017-12-12 09:50:01.118 DEBUG [http-nio-8080-exec-20/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - commit: commitInstances=[com.artwell.inspectionrecord.entity.InspectionRecord-95d0a755-6e28-ca7f-85a5-fccb1ed709e0 [new]], removeInstances=[]
+2017-12-12 09:50:08.208 DEBUG [http-nio-8080-exec-5/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$UserSubstitution, view=com.haulmont.cuba.security.entity.UserSubstitution/app, query=select us from sec$UserSubstitution us where us.user.id = :userId and (us.endDate is null or us.endDate >= :currentDate) and (us.startDate is null or us.startDate <= :currentDate) and (us.substitutedUser.active = true or us.substitutedUser.active is null) order by us.substitutedUser.name
+2017-12-12 09:50:08.223 DEBUG [http-nio-8080-exec-5/app-core/admin] com.haulmont.cuba.core.app.FoldersServiceBean - Loading AppFolders
+2017-12-12 09:50:08.226 DEBUG [http-nio-8080-exec-5/app-core/admin] com.haulmont.cuba.core.app.FoldersServiceBean - Loading SearchFolders
+2017-12-12 09:50:13.793 DEBUG [http-nio-8080-exec-16/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=sec$Filter, view=com.haulmont.cuba.security.entity.FilterEntity/app, query=select f from sec$Filter f left join f.user u where f.componentId = :component and (u.id = :userId or u is null) order by f.name
+2017-12-12 09:50:13.809 DEBUG [http-nio-8080-exec-16/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - loadList: metaClass=inspectionrecord$InspectionRecord, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view, query=select e from inspectionrecord$InspectionRecord e, max=50
+2017-12-12 09:50:13.836 DEBUG [http-nio-8080-exec-16/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:50:17.071 DEBUG [http-nio-8080-exec-12/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=0187850b-a779-d995-595d-84115be4a41e, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:50:17.092 DEBUG [http-nio-8080-exec-12/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:50:18.054 DEBUG [http-nio-8080-exec-20/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=174de7a9-cfee-66b9-3c75-0a273940e8ca, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:50:18.074 DEBUG [http-nio-8080-exec-20/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:50:20.222 DEBUG [http-nio-8080-exec-3/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=1d95d708-6d3d-aa6a-d208-0e9449062b6b, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:50:20.241 DEBUG [http-nio-8080-exec-3/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:50:21.304 DEBUG [http-nio-8080-exec-18/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=174de7a9-cfee-66b9-3c75-0a273940e8ca, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:50:21.321 DEBUG [http-nio-8080-exec-18/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:50:25.950 DEBUG [http-nio-8080-exec-27/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=95d0a755-6e28-ca7f-85a5-fccb1ed709e0, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:50:25.969 DEBUG [http-nio-8080-exec-27/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:50:26.646 DEBUG [http-nio-8080-exec-15/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=26a88136-8343-1228-5eef-6a71f7364609, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:50:26.660 DEBUG [http-nio-8080-exec-15/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:50:27.350 DEBUG [http-nio-8080-exec-7/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=1d95d708-6d3d-aa6a-d208-0e9449062b6b, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:50:27.370 DEBUG [http-nio-8080-exec-7/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:50:28.326 DEBUG [http-nio-8080-exec-16/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=2d8cea07-b28d-cd72-6ca9-a434386db02e, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:50:28.354 DEBUG [http-nio-8080-exec-16/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:50:29.038 DEBUG [http-nio-8080-exec-30/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=68041794-a646-f485-4465-61a7b30f63dc, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:50:29.065 DEBUG [http-nio-8080-exec-30/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:50:30.686 DEBUG [http-nio-8080-exec-12/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=26a88136-8343-1228-5eef-6a71f7364609, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:50:30.752 DEBUG [http-nio-8080-exec-12/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/
+2017-12-12 09:50:31.758 DEBUG [http-nio-8080-exec-25/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$InspectionRecord, id=95d0a755-6e28-ca7f-85a5-fccb1ed709e0, view=com.artwell.inspectionrecord.entity.InspectionRecord/inspectionRecord-view
+2017-12-12 09:50:31.776 DEBUG [http-nio-8080-exec-25/app-core/admin] com.haulmont.cuba.core.app.RdbmsStore - load: metaClass=inspectionrecord$HtEmpl, id=99800126, view=com.artwell.inspectionrecord.entity.HtEmpl/

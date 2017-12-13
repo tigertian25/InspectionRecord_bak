@@ -1,0 +1,652 @@
+Performance Statistics   2017-12-08 10:14:00 - 2017-12-08 10:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$HtEmpl.browse#init                      0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#inject                    1.0           1           1         0.0           1
+inspectionrecord$HtEmpl.browse#load                    863.0         863         863         0.0           1
+inspectionrecord$HtEmpl.browse#ready                     0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#uiPermissions             0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#xml                      12.0          12          12         0.0           1
+inspectionrecord$HtEmpl.browse@htEmplsDs              4706.0        4706        4706         0.0           1
+loginWindow#init                                        18.0          18          18         0.0           1
+loginWindow#inject                                      15.0          15          15         0.0           1
+loginWindow#load                                       705.0         705         705         0.0           1
+loginWindow#ready                                        0.0           0           0         0.0           1
+loginWindow#uiPermissions                                0.0           0           0         0.0           1
+loginWindow#xml                                         14.0          14          14         0.0           1
+mainWindow#init                                         45.0          45          45         0.0           1
+mainWindow#inject                                        2.0           2           2         0.0           1
+mainWindow#load                                        350.0         350         350         0.0           1
+mainWindow#ready                                         0.0           0           0         0.0           1
+mainWindow#uiPermissions                                 0.0           0           0         0.0           1
+mainWindow#xml                                           2.0           2           2         0.0           1
+
+Performance Statistics   2017-12-08 10:16:00 - 2017-12-08 10:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$DefectType.browse#init                  7.0           7           7         0.0           1
+inspectionrecord$DefectType.browse#inject                0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#load                124.0         124         124         0.0           1
+inspectionrecord$DefectType.browse#ready                 0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#xml                   4.0           4           4         0.0           1
+inspectionrecord$DefectType.browse@defectTypesDs        21.0          21          21         0.0           1
+inspectionrecord$Employee.browse#init                    3.5           0           7         3.5           2
+inspectionrecord$Employee.browse#inject                  0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#load                  352.0          18         686       334.0           2
+inspectionrecord$Employee.browse#ready                   0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#uiPermissions           0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#xml                     1.5           0           3         1.5           2
+inspectionrecord$Employee.browse@employeesDs            81.0          29         133        52.0           2
+inspectionrecord$HtEmpl.browse#init                      0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#inject                    0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#load                     50.0          50          50         0.0           1
+inspectionrecord$HtEmpl.browse#ready                     0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#uiPermissions             0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#xml                       0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse@htEmplsDs               288.0         288         288         0.0           1
+inspectionrecord$HtJob.browse#init                       0.0           0           0         0.0           2
+inspectionrecord$HtJob.browse#inject                     0.0           0           0         0.0           2
+inspectionrecord$HtJob.browse#load                      21.5          12          31         9.5           2
+inspectionrecord$HtJob.browse#ready                      0.0           0           0         0.0           2
+inspectionrecord$HtJob.browse#uiPermissions              0.0           0           0         0.0           2
+inspectionrecord$HtJob.browse#xml                        0.5           0           1         0.5           2
+inspectionrecord$HtJob.browse@htJobsDs                 220.5         198         243        22.5           2
+inspectionrecord$Job.browse#init                         3.0           2           4         1.0           2
+inspectionrecord$Job.browse#inject                       2.0           0           4         2.0           2
+inspectionrecord$Job.browse#load                        56.0          18          94        38.0           2
+inspectionrecord$Job.browse#ready                        0.0           0           0         0.0           2
+inspectionrecord$Job.browse#uiPermissions                0.0           0           0         0.0           2
+inspectionrecord$Job.browse#xml                          2.0           0           4         2.0           2
+inspectionrecord$Job.browse@jobsDs                      17.5          17          18         0.5           2
+
+Performance Statistics   2017-12-08 10:18:00 - 2017-12-08 10:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$DefectType.browse#init                  0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#inject                0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#load                 26.0          26          26         0.0           1
+inspectionrecord$DefectType.browse#ready                 0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#xml                   0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse@defectTypesDs        13.0          13          13         0.0           1
+inspectionrecord$Employee.browse#init                    0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#inject                  0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#load                   19.5          19          20         0.5           2
+inspectionrecord$Employee.browse#ready                   0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#uiPermissions           0.0           0           0         0.0           2
+inspectionrecord$Employee.browse#xml                     0.0           0           0         0.0           2
+inspectionrecord$Employee.browse@employeesDs           196.0         196         196         0.0           1
+inspectionrecord$HtEmpl.browse#init                      0.0           0           0         0.0           4
+inspectionrecord$HtEmpl.browse#inject                    0.0           0           0         0.0           4
+inspectionrecord$HtEmpl.browse#load                     29.5          25          32         2.9           4
+inspectionrecord$HtEmpl.browse#ready                     0.0           0           0         0.0           4
+inspectionrecord$HtEmpl.browse#uiPermissions             0.0           0           0         0.0           4
+inspectionrecord$HtEmpl.browse#xml                       0.0           0           0         0.0           4
+inspectionrecord$HtEmpl.browse@htEmplsDs               245.8         209         284        26.5           4
+inspectionrecord$Job.browse#init                         0.0           0           0         0.0           1
+inspectionrecord$Job.browse#inject                       0.0           0           0         0.0           1
+inspectionrecord$Job.browse#load                        21.0          21          21         0.0           1
+inspectionrecord$Job.browse#ready                        0.0           0           0         0.0           1
+inspectionrecord$Job.browse#uiPermissions                0.0           0           0         0.0           1
+inspectionrecord$Job.browse#xml                          0.0           0           0         0.0           1
+inspectionrecord$Job.browse@jobsDs                     134.0         134         134         0.0           1
+
+Performance Statistics   2017-12-08 10:20:00 - 2017-12-08 10:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+addCondition#init                                        9.0           9           9         0.0           1
+addCondition#inject                                      0.0           0           0         0.0           1
+addCondition#load                                       37.0          37          37         0.0           1
+addCondition#ready                                       0.0           0           0         0.0           1
+addCondition#uiPermissions                               0.0           0           0         0.0           1
+addCondition#xml                                         1.0           1           1         0.0           1
+addCondition@conditionDescriptorsDs                      0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#init                    0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#inject                  0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#load                   11.0          11          11         0.0           1
+inspectionrecord$Employee.browse#ready                   0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#uiPermissions           0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#xml                     0.0           0           0         0.0           1
+inspectionrecord$Employee.browse@employeesDs           136.0         136         136         0.0           1
+inspectionrecord$HtEmpl.browse#init                      0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#inject                    0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#load                     20.0          20          20         0.0           1
+inspectionrecord$HtEmpl.browse#ready                     0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#uiPermissions             0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse#xml                       0.0           0           0         0.0           1
+inspectionrecord$HtEmpl.browse@htEmplsDs               381.3         259         562       125.3           4
+
+Performance Statistics   2017-12-08 10:22:00 - 2017-12-08 10:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$Job.browse#init                         0.0           0           0         0.0           2
+inspectionrecord$Job.browse#inject                       0.0           0           0         0.0           2
+inspectionrecord$Job.browse#load                        11.5          11          12         0.5           2
+inspectionrecord$Job.browse#ready                        0.0           0           0         0.0           2
+inspectionrecord$Job.browse#uiPermissions                0.0           0           0         0.0           2
+inspectionrecord$Job.browse#xml                          0.0           0           0         0.0           2
+inspectionrecord$Job.browse@jobsDs                     134.5         132         137         2.5           2
+
+Performance Statistics   2017-12-08 10:24:00 - 2017-12-08 10:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$HtJob.browse#init                       0.0           0           0         0.0           1
+inspectionrecord$HtJob.browse#inject                     0.0           0           0         0.0           1
+inspectionrecord$HtJob.browse#load                       9.0           9           9         0.0           1
+inspectionrecord$HtJob.browse#ready                      0.0           0           0         0.0           1
+inspectionrecord$HtJob.browse#uiPermissions              0.0           0           0         0.0           1
+inspectionrecord$HtJob.browse#xml                        0.0           0           0         0.0           1
+inspectionrecord$HtJob.browse@htJobsDs                 232.0         232         232         0.0           1
+inspectionrecord$Job.browse#init                         0.0           0           0         0.0           2
+inspectionrecord$Job.browse#inject                       0.0           0           0         0.0           2
+inspectionrecord$Job.browse#load                        14.0           7          21         7.0           2
+inspectionrecord$Job.browse#ready                        0.0           0           0         0.0           2
+inspectionrecord$Job.browse#uiPermissions                0.0           0           0         0.0           2
+inspectionrecord$Job.browse#xml                          0.0           0           0         0.0           2
+inspectionrecord$Job.browse@jobsDs                     153.0         150         156         3.0           2
+
+Performance Statistics   2017-12-08 10:26:00 - 2017-12-08 10:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$DefectType.browse#init                  0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#inject                0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#load                 14.0          14          14         0.0           1
+inspectionrecord$DefectType.browse#ready                 0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#xml                   0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse@defectTypesDs       139.0         139         139         0.0           1
+inspectionrecord$InspectionRecord.browse#init            5.0           5           5         0.0           1
+inspectionrecord$InspectionRecord.browse#inject          0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#load          111.0         111         111         0.0           1
+inspectionrecord$InspectionRecord.browse#ready           0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#xml             2.0           2           2         0.0           1
+inspectionrecord$InspectionRecord.browse@inspectionRecordsDs       279.0         279         279         0.0           1
+inspectionrecord$Job.browse#init                         0.5           0           1         0.5           2
+inspectionrecord$Job.browse#inject                       0.0           0           0         0.0           2
+inspectionrecord$Job.browse#load                        17.0          16          18         1.0           2
+inspectionrecord$Job.browse#ready                        0.0           0           0         0.0           2
+inspectionrecord$Job.browse#uiPermissions                0.0           0           0         0.0           2
+inspectionrecord$Job.browse#xml                          0.0           0           0         0.0           2
+inspectionrecord$Job.browse@jobsDs                     138.0         137         139         1.0           2
+
+Performance Statistics   2017-12-08 10:28:00 - 2017-12-08 10:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+inspectionrecord$DefectType.browse#init                  0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#inject                0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#load                 24.0          24          24         0.0           1
+inspectionrecord$DefectType.browse#ready                 0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse#xml                   0.0           0           0         0.0           1
+inspectionrecord$DefectType.browse@defectTypesDs       138.0         138         138         0.0           1
+inspectionrecord$Employee.browse#init                    0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#inject                  0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#load                   11.0          11          11         0.0           1
+inspectionrecord$Employee.browse#ready                   0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#uiPermissions           0.0           0           0         0.0           1
+inspectionrecord$Employee.browse#xml                     0.0           0           0         0.0           1
+inspectionrecord$Employee.browse@employeesDs           129.0         129         129         0.0           1
+inspectionrecord$InspectionRecord.browse#init            0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#inject          0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#load           21.0          21          21         0.0           1
+inspectionrecord$InspectionRecord.browse#ready           0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#uiPermissions         0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse#xml             0.0           0           0         0.0           1
+inspectionrecord$InspectionRecord.browse@inspectionRecordsDs        14.0          14          14         0.0           1
+
+Performance Statistics   2017-12-08 10:30:00 - 2017-12-08 10:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:32:00 - 2017-12-08 10:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:34:00 - 2017-12-08 10:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:36:00 - 2017-12-08 10:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:38:00 - 2017-12-08 10:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:40:00 - 2017-12-08 10:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:42:00 - 2017-12-08 10:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:44:00 - 2017-12-08 10:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:46:00 - 2017-12-08 10:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:48:00 - 2017-12-08 10:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:50:00 - 2017-12-08 10:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:52:00 - 2017-12-08 10:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:54:00 - 2017-12-08 10:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:56:00 - 2017-12-08 10:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 10:58:00 - 2017-12-08 11:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:00:00 - 2017-12-08 11:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:02:00 - 2017-12-08 11:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:04:00 - 2017-12-08 11:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:06:00 - 2017-12-08 11:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:08:00 - 2017-12-08 11:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:10:00 - 2017-12-08 11:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:12:00 - 2017-12-08 11:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:14:00 - 2017-12-08 11:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:16:00 - 2017-12-08 11:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:18:00 - 2017-12-08 11:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:20:00 - 2017-12-08 11:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:22:00 - 2017-12-08 11:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:24:00 - 2017-12-08 11:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:26:00 - 2017-12-08 11:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:28:00 - 2017-12-08 11:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:30:00 - 2017-12-08 11:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:32:00 - 2017-12-08 11:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:34:00 - 2017-12-08 11:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:36:00 - 2017-12-08 11:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:38:00 - 2017-12-08 11:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:40:00 - 2017-12-08 11:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:42:00 - 2017-12-08 11:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:44:00 - 2017-12-08 11:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:46:00 - 2017-12-08 11:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:48:00 - 2017-12-08 11:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:50:00 - 2017-12-08 11:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:52:00 - 2017-12-08 11:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:54:00 - 2017-12-08 11:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:56:00 - 2017-12-08 11:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 11:58:00 - 2017-12-08 12:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:00:00 - 2017-12-08 12:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:02:00 - 2017-12-08 12:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:04:00 - 2017-12-08 12:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:06:00 - 2017-12-08 12:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:08:00 - 2017-12-08 12:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:10:00 - 2017-12-08 12:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:12:00 - 2017-12-08 12:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:14:00 - 2017-12-08 12:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:16:00 - 2017-12-08 12:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:18:00 - 2017-12-08 12:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:20:00 - 2017-12-08 12:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:22:00 - 2017-12-08 12:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:24:00 - 2017-12-08 12:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:26:00 - 2017-12-08 12:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:28:00 - 2017-12-08 12:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:30:00 - 2017-12-08 12:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:32:00 - 2017-12-08 12:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:34:00 - 2017-12-08 12:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:36:00 - 2017-12-08 12:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:38:00 - 2017-12-08 12:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:40:00 - 2017-12-08 12:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:42:00 - 2017-12-08 12:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:44:00 - 2017-12-08 12:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:46:00 - 2017-12-08 12:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:48:00 - 2017-12-08 12:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:50:00 - 2017-12-08 12:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:52:00 - 2017-12-08 12:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:54:00 - 2017-12-08 12:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:56:00 - 2017-12-08 12:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 12:58:00 - 2017-12-08 13:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:00:00 - 2017-12-08 13:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:02:00 - 2017-12-08 13:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:04:00 - 2017-12-08 13:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:06:00 - 2017-12-08 13:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:08:00 - 2017-12-08 13:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:10:00 - 2017-12-08 13:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:12:00 - 2017-12-08 13:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:14:00 - 2017-12-08 13:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:16:00 - 2017-12-08 13:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:18:00 - 2017-12-08 13:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:20:00 - 2017-12-08 13:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:22:00 - 2017-12-08 13:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:24:00 - 2017-12-08 13:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:26:00 - 2017-12-08 13:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:28:00 - 2017-12-08 13:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:30:00 - 2017-12-08 13:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:32:00 - 2017-12-08 13:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:34:00 - 2017-12-08 13:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:36:00 - 2017-12-08 13:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:38:00 - 2017-12-08 13:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:40:00 - 2017-12-08 13:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:42:00 - 2017-12-08 13:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:44:00 - 2017-12-08 13:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:46:00 - 2017-12-08 13:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:48:00 - 2017-12-08 13:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:50:00 - 2017-12-08 13:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:52:00 - 2017-12-08 13:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:54:00 - 2017-12-08 13:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:56:00 - 2017-12-08 13:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 13:58:00 - 2017-12-08 14:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:00:00 - 2017-12-08 14:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:02:00 - 2017-12-08 14:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:04:00 - 2017-12-08 14:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:06:00 - 2017-12-08 14:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:08:00 - 2017-12-08 14:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:10:00 - 2017-12-08 14:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:12:00 - 2017-12-08 14:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:14:00 - 2017-12-08 14:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:16:00 - 2017-12-08 14:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:18:00 - 2017-12-08 14:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:20:00 - 2017-12-08 14:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:22:00 - 2017-12-08 14:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:24:00 - 2017-12-08 14:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:26:00 - 2017-12-08 14:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:28:00 - 2017-12-08 14:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:30:00 - 2017-12-08 14:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:32:00 - 2017-12-08 14:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:34:00 - 2017-12-08 14:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:36:00 - 2017-12-08 14:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:38:00 - 2017-12-08 14:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:40:00 - 2017-12-08 14:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:42:00 - 2017-12-08 14:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:44:00 - 2017-12-08 14:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:46:00 - 2017-12-08 14:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:48:00 - 2017-12-08 14:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:50:00 - 2017-12-08 14:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:52:00 - 2017-12-08 14:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:54:00 - 2017-12-08 14:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:56:00 - 2017-12-08 14:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 14:58:00 - 2017-12-08 15:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:00:00 - 2017-12-08 15:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:02:00 - 2017-12-08 15:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:04:00 - 2017-12-08 15:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:06:00 - 2017-12-08 15:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:08:00 - 2017-12-08 15:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:10:00 - 2017-12-08 15:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:12:00 - 2017-12-08 15:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:14:00 - 2017-12-08 15:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:16:00 - 2017-12-08 15:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:18:00 - 2017-12-08 15:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:20:00 - 2017-12-08 15:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:22:00 - 2017-12-08 15:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:24:00 - 2017-12-08 15:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:26:00 - 2017-12-08 15:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:28:00 - 2017-12-08 15:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:30:00 - 2017-12-08 15:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:32:00 - 2017-12-08 15:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:34:00 - 2017-12-08 15:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2017-12-08 15:36:00 - 2017-12-08 15:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
